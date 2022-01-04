@@ -1,0 +1,936 @@
+,Award,GrammyYear,Genre,Album,Artist
+0,Album Of The Year,2018,General,Golden Hour,Kacey Musgraves
+1,Best Traditional Pop Vocal Album,2018,Traditional Pop,My Way,Willie Nelson
+2,Best Pop Vocal Album,2018,Pop,Sweetener,Ariana Grande
+3,Best Dance/Electronic Album,2018,Dance/Electronic Music,Woman Worldwide,Justice
+4,Best Contemporary Instrumental Album,2018,Contemporary Instrumental Music,Steve Gadd Band,Steve Gadd Band
+5,Best Rock Album,2018,Rock,From The Fires,Greta Van Fleet
+6,Best Alternative Music Album,2018,Alternative,Colors,Beck
+7,Best Urban Contemporary Album,2018,R&B,Everything Is Love,The Carters
+8,Best R&B Album,2018,R&B,H.E.R.,H.E.R.
+9,Best Rap Album,2018,Rap,Invasion Of Privacy,Cardi B
+10,Best Country Album,2018,Country,Golden Hour,Kacey Musgraves
+11,Best New Age Album,2018,New Age,Opium Moon,Opium Moon
+12,Best Jazz Vocal Album,2018,Jazz,The Window,Cécile McLorin Salvant
+13,Best Jazz Instrumental Album,2018,Jazz,Emanon,The Wayne Shorter Quartet
+14,Best Large Jazz Ensemble Album,2018,Jazz,"American Dreamers: Voices Of Hope, Music Of Freedom",John Daversa Big Band Featuring DACA Artists
+15,Best Latin Jazz Album,2018,Jazz,Back To The Sunset,Dafnis Prieto Big Band
+16,Best Gospel Album,2018,Gospel/Contemporary Christian Music,Hiding Place,Tori Kelly
+17,Best Contemporary Christian Music Album,2018,Gospel/Contemporary Christian Music,Look Up Child,Lauren Daigle
+18,Best Roots Gospel Album,2018,Gospel/Contemporary Christian Music,Unexpected,Jason Crabb
+19,Best Latin Pop Album,2018,Latin,Sincera,Claudia Brant
+20,"Best Latin Rock, Urban or Alternative Album",2018,Latin,Aztlán,Zoé
+21,Best Regional Mexican Music Album (Including Tejano),2018,Latin,¡México Por Siempre!,Luis Miguel
+22,Best Tropical Latin Album,2018,Latin,Anniversary,Spanish Harlem Orchestra
+23,Best Americana Album,2018,American Roots Music,"By The Way, I Forgive You",Brandi Carlile
+24,Best Bluegrass Album,2018,American Roots Music,The Travelin' McCourys,The Travelin' McCourys
+25,Best Traditional Blues Album,2018,American Roots Music,The Blues Is Alive And Well,Buddy Guy
+26,Best Contemporary Blues Album,2018,American Roots Music,Please Don't Be Dead,Fantastic Negrito
+27,Best Folk Album,2018,American Roots Music,All Ashore,Punch Brothers
+28,Best Regional Roots Music Album,2018,American Roots Music,No 'Ane'i,Kalani Pe'a
+29,Best Reggae Album,2018,Reggae,44/876,Sting
+30,Best World Music Album,2018,World Music,Freedom,Soweto Gospel Choir
+31,Best Children's Album,2018,Children's,All The Sounds,Lucy Kalantari & The Jazz Cats
+32,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",2018,Spoken Word,Faith  - A Journey For All,Jimmy Carter
+33,Best Comedy Album,2018,Comedy,Equanimity & The Bird Revelation,Dave Chappelle
+34,Best Musical Theater Album,2018,Musical Theater,The Band's Visit,"Stephen Flaherty, composer; Lynn Ahrens, lyricist) (New Broadway Cast"
+35,Best Album Notes,2018,Notes,Voices Of Mississippi: Artists And Musicians Documented By William Ferris,Bob Dylan
+36,Best Historical Album,2018,Historical,Voices Of Mississippi: Artists And Musicians Documented By William Ferris,Oscar Levant
+37,"Best Engineered Album, Non-Classical",2018,"Production, Non-Classical",Colors,Charlie Puth
+38,Best Immersive Audio Album,2018,"Production, Immersive Audio",Eye In The Sky - 35th Anniversary Edition,Engine-Earz Experiment
+39,"Best Engineered Album, Classical",2018,"Production, Classical",Shostakovich: Symphonies Nos. 4 & 11,A Far Cry
+40,Best Classical Solo Vocal Album,2018,Classical,"Songs Of Orpheus - Monteverdi, Caccini, D'India & Landi",Karim Sulayman
+41,Album Of The Year,2017,General,24K Magic,Bruno Mars
+42,Best Traditional Pop Vocal Album,2017,Traditional Pop,Tony Bennett Celebrates 90,Dae Bennett
+43,Best Pop Vocal Album,2017,Pop,÷ (Divide),Ed Sheeran
+44,Best Dance/Electronic Album,2017,Dance/Electronic Music,3-D The Catalogue,Kraftwerk
+45,Best Contemporary Instrumental Album,2017,Contemporary Instrumental Music,Prototype,Jeff Lorber Fusion
+46,Best Rock Album,2017,Rock,A Deeper Understanding,The War On Drugs
+47,Best Alternative Music Album,2017,Alternative,Sleep Well Beast,The National
+48,Best Urban Contemporary Album,2017,R&B,Starboy,The Weeknd
+49,Best R&B Album,2017,R&B,24K Magic,Bruno Mars
+50,Best Rap Album,2017,Rap,DAMN.,Kendrick Lamar
+51,Best Country Album,2017,Country,From A Room: Volume 1,Chris Stapleton
+52,Best New Age Album,2017,New Age,Dancing On Water,Peter Kater
+53,Best Jazz Vocal Album,2017,Jazz,Dreams And Daggers,Cécile McLorin Salvant
+54,Best Jazz Instrumental Album,2017,Jazz,Rebirth,Billy Childs
+55,Best Large Jazz Ensemble Album,2017,Jazz,Bringin' It,Christian McBride Big Band
+56,Best Latin Jazz Album,2017,Jazz,Jazz Tango,Pablo Ziegler Trio
+57,Best Gospel Album,2017,Gospel/Contemporary Christian Music,Let Them Fall In Love,CeCe Winans
+58,Best Contemporary Christian Music Album,2017,Gospel/Contemporary Christian Music,Chain Breaker,Zach Williams
+59,Best Roots Gospel Album,2017,Gospel/Contemporary Christian Music,Sing It Now: Songs Of Faith & Hope,Reba McEntire
+60,Best Latin Pop Album,2017,Latin,El Dorado,Shakira
+61,"Best Latin Rock, Urban or Alternative Album",2017,Latin,Residente,Residente
+62,Best Regional Mexican Music Album (Including Tejano),2017,Latin,Arrieros Somos Sesiones Acústicas,Aida Cuevas
+63,Best Tropical Latin Album,2017,Latin,Salsa Big Band,Rubén Blades Con Roberto Delgado & Orquesta
+64,Best Americana Album,2017,American Roots Music,The Nashville Sound,Jason Isbell
+65,Best Bluegrass Album,2017,American Roots Music,All The Rage - In Concert Volume One [Live],The Infamous Stringdusters
+66,Best Traditional Blues Album,2017,American Roots Music,Blue & Lonesome,The Rolling Stones
+67,Best Contemporary Blues Album,2017,American Roots Music,TajMo,Taj Mahal
+68,Best Folk Album,2017,American Roots Music,Mental Illness,Aimee Mann
+69,Best Regional Roots Music Album,2017,American Roots Music,Kalenda,Lost Bayou Ramblers
+70,Best Reggae Album,2017,Reggae,Stony Hill,"Damian ""Jr. Gong"" Marley"
+71,Best World Music Album,2017,World Music,Shaka Zulu Revisited: 30th Anniversary Celebration,Ladysmith Black Mambazo
+72,Best Children's Album,2017,Children's,Feel What U Feel,Lisa Loeb
+73,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",2017,Spoken Word,The Princess Diarist,Carrie Fisher
+74,Best Comedy Album,2017,Comedy,The Age Of Spin & Deep In The Heart Of Texas,Dave Chappelle
+75,Best Musical Theater Album,2017,Musical Theater,Dear Evan Hansen,Original Broadway Cast Recording
+76,Best Album Notes,2017,Notes,Live At The Whisky A Go Go: The Complete Recordings,Otis Redding
+77,Best Historical Album,2017,Historical,Leonard Bernstein - The Composer,Leonard Bernstein
+78,"Best Engineered Album, Non-Classical",2017,"Production, Non-Classical",24K Magic,Bruno Mars
+79,Best Surround Sound Album,2017,"Production, Immersive Audio",Early Americans,Jim Anderson
+80,"Best Engineered Album, Classical",2017,"Production, Classical",Shostakovich: Symphony No. 5; Barber: Adagio,Manfred Honeck & Pittsburgh Symphony Orchestra
+81,Best Classical Solo Vocal Album,2017,Classical,Crazy Girl Crazy,Ludwig Orchestra
+82,Album Of The Year,2016,General,25,Adele
+83,Best Traditional Pop Vocal Album,2016,Traditional Pop,Summertime: Willie Nelson Sings Gershwin,Willie Nelson
+84,Best Pop Vocal Album,2016,Pop,25,Adele
+85,Best Dance/Electronic Album,2016,Dance/Electronic Music,Skin,Flume
+86,Best Contemporary Instrumental Album,2016,Contemporary Instrumental Music,Culcha Vulcha,Snarky Puppy
+87,Best Rock Album,2016,Rock,Tell Me I'm Pretty,Cage The Elephant
+88,Best Alternative Music Album,2016,Alternative,Blackstar,David Bowie
+89,Best Urban Contemporary Album,2016,R&B,Lemonade,Beyoncé
+90,Best R&B Album,2016,R&B,Lalah Hathaway Live,Lalah Hathaway
+91,Best Rap Album,2016,Rap,Coloring Book,Chance The Rapper
+92,Best Country Album,2016,Country,A Sailor's Guide To Earth,Sturgill Simpson
+93,Best New Age Album,2016,New Age,White Sun II,White Sun
+94,Best Jazz Vocal Album,2016,Jazz,Take Me To The Alley,Gregory Porter
+95,Best Jazz Instrumental Album,2016,Jazz,Country For Old Men,John Scofield
+96,Best Large Jazz Ensemble Album,2016,Jazz,Presidential Suite: Eight Variations On Freedom,Ted Nash Big Band
+97,Best Latin Jazz Album,2016,Jazz,Tribute To Irakere: Live In Marciac,Chucho Valdés
+98,Best Gospel Album,2016,Gospel/Contemporary Christian Music,Losing My Religion,Kirk Franklin
+99,Best Contemporary Christian Music Album,2016,Gospel/Contemporary Christian Music,Love Remains,Hillary Scott & The Scott Family
+100,Best Roots Gospel Album,2016,Gospel/Contemporary Christian Music,Hymns,Joey Rory
+101,Best Latin Pop Album,2016,Latin,Un Besito Más,Jesse & Joy
+102,"Best Latin Rock, Urban or Alternative Album",2016,Latin,iLevitable,iLe
+103,Best Regional Mexican Music Album (Including Tejano),2016,Latin,"Un Azteca En El Azteca, Vol. 1 (En Vivo)",Vicente Fernández
+104,Best Tropical Latin Album,2016,Latin,Donde Están?,Jose Lugo
+105,Best Americana Album,2016,American Roots Music,This Is Where I Live,William Bell
+106,Best Bluegrass Album,2016,American Roots Music,Coming Home,Mark O'Connor
+107,Best Traditional Blues Album,2016,American Roots Music,Porcupine Meat,Bobby Rush
+108,Best Contemporary Blues Album,2016,American Roots Music,The Last Days Of Oakland,Fantastic Negrito
+109,Best Folk Album,2016,American Roots Music,Undercurrent,Sarah Jarosz
+110,Best Regional Roots Music Album,2016,American Roots Music,E Walea,Kalani Pe'a
+111,Best Reggae Album,2016,Reggae,Ziggy Marley,Ziggy Marley
+112,Best World Music Album,2016,World Music,Sing Me Home,Yo-Yo Ma
+113,Best Children's Album,2016,Children's,Infinity Plus One,Secret Agent 23 Skidoo
+114,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",2016,Spoken Word,"In Such Good Company: Eleven Years Of Laughter, Mayhem, And Fun In The Sandbox",Carol Burnett
+115,Best Comedy Album,2016,Comedy,Talking For Clapping,Patton Oswalt
+116,Best Musical Theater Album,2016,Musical Theater,The Color Purple,New Broadway Cast
+117,Best Album Notes,2016,Notes,Sissle And Blake Sing Shuffle Along,Eubie Blake & Noble Sissle
+118,Best Historical Album,2016,Historical,"The Cutting Edge 1965-1966: The Bootleg Series, Vol.12 (Collector's Edition)",Bob Dylan
+119,"Best Engineered Album, Non-Classical",2016,"Production, Non-Classical",Blackstar,David Bowie
+120,Best Surround Sound Album,2016,"Production, Immersive Audio","Dutilleux: Sur Le Même Accord; Les Citations; Mystère De L'instant & Timbres, Espace, Mouvement",Ludovic Morlot & Seattle Symphony
+121,"Best Engineered Album, Classical",2016,"Production, Classical",Corigliano: The Ghosts Of Versailles,"James Conlon, Guanqun Yu, Joshua Guerrero, Patricia Racette, Christopher Maltman, Lucy Schaufer, Lucas Meachem, LA Opera Chorus & Orchestra"
+122,Best Classical Solo Vocal Album,2016,Classical,Shakespeare Songs,Dorothea Röschmann
+123,Album Of The Year,2015,General,1989,"ack Antonoff, Nathan Chapman, Imogen Heap, Max Martin, Mattman & Robin, Ali Payami, Shellback, Taylor Swift, Ryan Tedder & Noel Zancanella, producers; Jack Antonoff, Mattias Bylund, Smith Carlson, Nathan Chapman, Serban Ghenea, John Hanes, Imogen Heap, Sam Holland, Michael Ilbert, Brendan Morawski, Laura Sisk & Ryan Tedder, engineers/mixers; Tom Coyne, mastering enginee"
+124,Best Traditional Pop Vocal Album,2015,Traditional Pop,The Silver Lining: The Songs Of Jerome Kern,"ae Bennett & Bill Charlap, producer"
+125,Best Pop Vocal Album,2015,Pop,1989,"ax Martin & Shellback, producer"
+126,Best Dance/Electronic Album,2015,Dance/Electronic Music,Skrillex And Diplo Present Jack Ü,"iplo & Skrillex, producer"
+127,Best Contemporary Instrumental Album,2015,Contemporary Instrumental Music,Sylva,narky Puppy & Metropole Orkes
+128,Best Rock Album,2015,Rock,Drones,"obert John ""Mutt"" Lange & Muse (Matthew Bellamy, Dominic Howard & Chris Wolstenholme), producer"
+129,Best Alternative Music Album,2015,Alternative,Sound & Color,"labama Shakes (Zac Cockrell, Heath Fogg, Brittany Howard & Steve Johnson) & Blake Mills, producer"
+130,Best Urban Contemporary Album,2015,R&B,Beauty Behind The Madness,"arlo ""Illangelo"" Montagnese & The Weeknd, producer"
+131,Best R&B Album,2015,R&B,Black Messiah,'Angelo And The Vanguar
+132,Best Rap Album,2015,Rap,To Pimp A Butterfly,endrick Lama
+133,Best Country Album,2015,Country,Traveller,"ave Cobb & Chris Stapleton, producer"
+134,Best New Age Album,2015,New Age,Grace,"aul Avgerinos, produce"
+135,Best Jazz Vocal Album,2015,Jazz,For One To Love,"l Pryor, produce"
+136,Best Jazz Instrumental Album,2015,Jazz,Past Present,"ohn Scofield, produce"
+137,Best Large Jazz Ensemble Album,2015,Jazz,The Thompson Fields,"yan Truesdell, produce"
+138,Best Latin Jazz Album,2015,Jazz,Made In Brazil,"liane Elias, Marc Johnson & Steve Rodby, producer"
+139,Best Gospel Album,2015,Gospel/Contemporary Christian Music,Covered: Alive In Asia [Live],"hris Baker, Kevin Camp & Aaron Lindsey, producers; Danny Duncan & Henry Seeley, engineers/mixer"
+140,Best Contemporary Christian Music Album,2015,Gospel/Contemporary Christian Music,This Is Not A Test,"avid Garcia, Christopher Stevens & Tobymac, producers; Bryan Fowler, engineer/mixe"
+141,Best Roots Gospel Album,2015,Gospel/Contemporary Christian Music,Still Rockin' My Soul,"ee Olsen & The Fairfield Four (Levert Allison, Bobbye Sherrell, Larrice Byrd, Sr. & Joe Thompson), producers; Brandon Perdue, engineer/mixe"
+142,Best Latin Pop Album,2015,Latin,A Quien Quiera Escuchar  (Deluxe Edition),"ulio Reyes Copello, producer; Luis Barrera Jr., Julio Reyes Copello, Javier Garza, Ricardo López Laliinde, Enrique Larreal & Carlos Fernando Lopez, engineer"
+143,"Best Latin Rock, Urban or Alternative Album",2015,Latin,Dale,"osé C. Garcia & Jorge Gomez, producers; Al Burna, enginee"
+144,Best Regional Mexican Music Album (Including Tejano),2015,Latin,Realidades - Deluxe Edition,"os Tigres Del Norte, produce"
+145,Best Tropical Latin Album,2015,Latin,Son De Panamá,"obert Delgado, producer; Pablo Governatori & Ignacio ""Nacho"" Molina, engineer"
+146,Best Americana Album,2015,American Roots Music,Something More Than Free,"ave Cobb, produce"
+147,Best Bluegrass Album,2015,American Roots Music,The Muscle Shoals Recordings,"he Steeldrivers, produce"
+148,Best Blues Album,2015,American Roots Music,Born To Play Guitar,"om Hambridge, produce"
+149,Best Folk Album,2015,American Roots Music,Béla Fleck And Abigail Washburn,"éla Fleck & Abigail Washburn, producers; Richard Battaglia & Béla Fleck, engineer"
+150,Best Regional Roots Music Album,2015,American Roots Music,Go Go Juice,"on Cleary & John Porter, producers; Tony Daigle, Mike Dorsey & John Porter, engineer"
+151,Best Reggae Album,2015,Reggae,Strictly Roots,"organ Heritage, produce"
+152,Best World Music Album,2015,World Music,Sings,"ean Hébrail & Angelique Kidjo, producer"
+153,Best Children's Album,2015,Children's,Home,"ominic Fallacaro, produce"
+154,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",2015,Spoken Word,A Full Life: Reflections at Ninety,"lisa Shokoff, produce"
+155,Best Comedy Album,2015,Comedy,Live At Madison Square Garden,"ave Becky, Mike Berkowitz & M. Blair Breard, producer"
+156,Best Musical Theater Album,2015,Musical Theater,Hamilton,"aveed Diggs, Renée Elise Goldsberry, Jonathan Groff, Christopher Jackson, Jasmine Cephas Jones, Leslie Odom, Jr., Lin-Manuel Miranda, Okieriete Onaodowan, Anthony Ramos & Phillipa Soo, principal soloists; Lin-Manuel Miranda, composer & lyricist; Alex Lacamoire, Lin-Manuel Miranda, Bill Sherman, Ahmir Thompson & Tarik Trotter, producers; Tim Latham & Derik Lee, engineers (Original Broadway Cast"
+157,Best Album Notes,2015,Notes,"Love Has Many Faces: A Quartet, A Ballet, Waiting To Be Danced","oni Mitchell, album notes writer (Joni Mitchell"
+158,Best Historical Album,2015,Historical,The Basement Tapes Complete: The Bootleg Series Vol. 11,"teve Berkowitz, Jan Haust & Jeff Rosen, compilation producers; Peter J. Moore & Mark Wilder, mastering engineers (Bob Dylan And The Band"
+159,"Best Engineered Album, Non-Classical",2015,"Production, Non-Classical",Sound & Color,"hawn Everett, engineer; Bob Ludwig, mastering engineer (Alabama Shakes"
+160,Best Surround Sound Album,2015,"Production, Immersive Audio",Amused To Death,"ames Guthrie, surround mix engineer; James Guthrie & Joel Plante, surround mastering engineers; James Guthrie, surround producer (Roger Waters"
+161,"Best Engineered Album, Classical",2015,"Production, Classical",Ask Your Mama,"eslie Ann Jones, John Kilgore, Nora Kroll-Rosenbaum & Justin Merrill, engineers; Patricia Sullivan, mastering engineer (George Manahan & San Francisco Ballet Orchestra"
+162,Best Classical Solo Vocal Album,2015,Classical,Joyce & Tony - Live From Wigmore Hall,"oyce DiDonato, soloist; Stephen Johns, producer; Jonathan Allen, enginee"
+163,Album Of The Year,2014,General,Morning Phase,Beck
+164,Best Traditional Pop Vocal Album,2014,Traditional Pop,Cheek To Cheek,Tony Bennett
+165,Best Pop Vocal Album,2014,Pop,In The Lonely Hour,Sam Smith
+166,Best Dance/Electronic Album,2014,Dance/Electronic Music,Syro,Aphex Twin
+167,Best Contemporary Instrumental Album,2014,Contemporary Instrumental Music,Bass & Mandolin,Chris Thile
+168,Best Rock Album,2014,Rock,Morning Phase,
+169,Best Alternative Music Album,2014,Alternative,St. Vincent,St. Vincent
+170,Best Urban Contemporary Album,2014,R&B,Girl,Pharrell Williams
+171,Best R&B Album,2014,R&B,"Love, Marriage & Divorce",Toni Braxton
+172,Best Rap Album,2014,Rap,The Marshall Mathers LP2,Eminem
+173,Best Country Album,2014,Country,Platinum,Miranda Lambert
+174,Best New Age Album,2014,New Age,Winds Of Samsara,Ricky Kej
+175,Best Jazz Vocal Album,2014,Jazz,Beautiful Life,Dianne Reeves
+176,Best Jazz Instrumental Album,2014,Jazz,Trilogy,Chick Corea Trio
+177,Best Large Jazz Ensemble Album,2014,Jazz,Life In The Bubble,Gordon Goodwin's Big Phat Band
+178,Best Latin Jazz Album,2014,Jazz,The Offense Of The Drum,Arturo O'Farrill & The Afro Latin Jazz Orchestra
+179,Best Gospel Album,2014,Gospel/Contemporary Christian Music,Help,Erica Campbell
+180,Best Contemporary Christian Music Album,2014,Gospel/Contemporary Christian Music,Run Wild. Live Free. Love Strong.,For King & Country
+181,Best Roots Gospel Album,2014,Gospel/Contemporary Christian Music,Shine For All The People,Mike Farris
+182,Best Latin Pop Album,2014,Latin,Tangos,Rubén Blades
+183,"Best Latin Rock, Urban or Alternative Album",2014,Latin,Multiviral,Calle 13
+184,Best Regional Mexican Music Album (Including Tejano),2014,Latin,Mano A Mano - Tangos A La Manera De Vicente Fernández,Vicente Fernández
+185,Best Tropical Latin Album,2014,Latin,Más + Corazón Profundo,Carlos Vives
+186,Best Americana Album,2014,American Roots Music,The River & The Thread,Rosanne Cash
+187,Best Bluegrass Album,2014,American Roots Music,The Earls Of Leicester,The Earls Of Leicester
+188,Best Blues Album,2014,American Roots Music,Step Back,Johnny Winter
+189,Best Folk Album,2014,American Roots Music,Remedy,Old Crow Medicine Show
+190,Best Regional Roots Music Album,2014,American Roots Music,The Legacy,Jo-EL Sonnier
+191,Best Reggae Album,2014,Reggae,Fly Rasta,Ziggy Marley
+192,Best World Music Album,2014,World Music,Eve,Angelique Kidjo
+193,Best Children's Album,2014,Children's,I Am Malala: How One Girl Stood Up For Education And Changed The World (Malala Yousafzai),Neela Vaswani
+194,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",2014,Spoken Word,Diary Of A Mad Diva,Joan Rivers
+195,Best Comedy Album,2014,Comedy,Mandatory Fun,Weird Al Yankovic
+196,Best Musical Theater Album,2014,Musical Theater,Beautiful: The Carole King Musical,Original Broadway Cast
+197,Best Album Notes,2014,Notes,Offering: Live At Temple University,John Coltrane
+198,Best Historical Album,2014,Historical,"The Garden Spot Programs, 1950",Hank Williams
+199,"Best Engineered Album, Non-Classical",2014,"Production, Non-Classical",Morning Phase,Beck
+200,Best Surround Sound Album,2014,"Production, Immersive Audio",Beyoncé,Beyoncé
+201,"Best Engineered Album, Classical",2014,"Production, Classical",Vaughan Williams: Dona Nobis Pacem; Symphony No. 4; The Lark Ascending,"Robert Spano, Norman Mackenzie, Atlanta Symphony Orchestra & Chorus"
+202,Best Classical Solo Vocal Album,2014,Classical,Douce France,Anne Sofie Von Otter
+203,Album Of The Year,2013,General,Random Access Memories,Daft Punk
+204,Best Pop Instrumental Album,2013,Pop,Steppin' Out,Herb Alpert
+205,Best Pop Vocal Album,2013,Pop,Unorthodox Jukebox,Bruno Mars
+206,Best Dance/Electronica Album,2013,Dance/Electronic Music,Random Access Memories,Daft Punk
+207,Best Traditional Pop Vocal Album,2013,Traditional Pop,To Be Loved,Michael Bublé
+208,Best Rock Album,2013,Rock,Celebration Day,Led Zeppelin
+209,Best Alternative Music Album,2013,Alternative,Modern Vampires Of The City,Vampire Weekend
+210,Best Urban Contemporary Album,2013,R&B,Unapologetic,Rihanna
+211,Best R&B Album,2013,R&B,Girl On Fire,Alicia Keys
+212,Best Rap Album,2013,Rap,The Heist,Ryan Lewis
+213,Best Country Album,2013,Country,Same Trailer Different Park,Kacey Musgraves
+214,Best New Age Album,2013,New Age,Love's River,Laura Sullivan
+215,Best Jazz Vocal Album,2013,Jazz,Liquid Spirit,Gregory Porter
+216,Best Jazz Instrumental Album,2013,Jazz,Money Jungle: Provocative In Blue,Terri Lyne Carrington
+217,Best Large Jazz Ensemble Album,2013,Jazz,Night In Calisia,Randy Brecker
+218,Best Latin Jazz Album,2013,Jazz,Song For Maura,Paquito D'Rivera
+219,Best Gospel Album,2013,Gospel/Contemporary Christian Music,Greater Than [Live],Tye Tribbett
+220,Best Contemporary Christian Music Album,2013,Gospel/Contemporary Christian Music,Overcomer,Mandisa
+221,Best Latin Pop Album,2013,Latin,Vida,Draco Rosa
+222,"Best Latin Rock, Urban or Alternative Album",2013,Latin,Treinta Días,La Santa Cecilia
+223,Best Regional Mexican Music Album (Including Tejano),2013,Latin,A Mi Manera,Mariachi Divas De Cindy Shea
+224,Best Tropical Latin Album,2013,Latin,Pacific Mambo Orchestra,Pacific Mambo Orchestra
+225,Best Americana Album,2013,American Roots Music,Old Yellow Moon,Emmylou Harris
+226,Best Bluegrass Album,2013,American Roots Music,The Streets Of Baltimore,Del McCoury Band
+227,Best Blues Album,2013,American Roots Music,Get Up!,Ben Harper
+228,Best Folk Album,2013,American Roots Music,My Favorite Picture Of You,Guy Clark
+229,Best Regional Roots Music Album,2013,American Roots Music,Dockside Sessions,Terrance Simien & The Zydeco Experience
+230,Best Reggae Album,2013,Reggae,Ziggy Marley In Concert,Ziggy Marley
+231,Best World Music Album,2013,World Music,Live: Singing For Peace Around The World,Gipsy Kings
+232,Best Children's Album,2013,Children's,Throw A Penny In The Wishing Well,Jennifer Gasoi
+233,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",2013,Spoken Word,America Again: Re-becoming The Greatness We Never Weren't,Stephen Colbert
+234,Best Comedy Album,2013,Comedy,Calm Down Gurrl,Kathy Griffin
+235,Best Musical Theater Album,2013,Musical Theater,Kinky Boots,"Original Broadway Cast With Stark Sands, Billy Porter & Others"
+236,Best Album Notes,2013,Notes,Afro Blue Impressions (Remastered & Expanded),John Coltrane
+237,Best Historical Album,2013,Historical,The Complete Sussex And Columbia Albums,Bill Withers
+238,"Best Engineered Album, Non-Classical",2013,"Production, Non-Classical",Random Access Memories,Daft Punk
+239,Best Surround Sound Album,2013,"Production, Immersive Audio",Live Kisses,Paul McCartney
+240,"Best Engineered Album, Classical",2013,"Production, Classical",Winter Morning Walks,"Dawn Upshaw, Maria Schneider, Australian Chamber Orchestra & St. Paul Chamber Orchestra"
+241,Album Of The Year,2012,General,Babel,Mumford & Sons
+242,Best Pop Instrumental Album,2012,Pop,Impressions,Chris Botti
+243,Best Pop Vocal Album,2012,Pop,Stronger,Kelly Clarkson
+244,Best Dance/Electronica Album,2012,Dance/Electronic Music,Bangarang,Skrillex
+245,Best Traditional Pop Vocal Album,2012,Traditional Pop,Kisses On The Bottom,Paul McCartney
+246,Best Rock Album,2012,Rock,El Camino,The Black Keys
+247,Best Alternative Music Album,2012,Alternative,Making Mirrors,Gotye
+248,Best Urban Contemporary Album,2012,R&B,Channel Orange,Frank Ocean
+249,Best R&B Album,2012,R&B,Black Radio,Robert Glasper Experiment
+250,Best Rap Album,2012,Rap,Take Care,Drake
+251,Best Country Album,2012,Country,Uncaged,Zac Brown Band
+252,Best New Age Album,2012,New Age,Echoes Of Love,Omar Akram
+253,Best Jazz Vocal Album,2012,Jazz,Radio Music Society,Esperanza Spalding
+254,Best Jazz Instrumental Album,2012,Jazz,Unity Band,Pat Metheny Unity Band
+255,Best Large Jazz Ensemble Album,2012,Jazz,Dear Diz (Every Day I Think Of You),Arturo Sandoval
+256,Best Latin Jazz Album,2012,Jazz,¡Ritmo!,The Clare Fischer Latin Jazz Big Band
+257,Best Gospel Album,2012,Gospel/Contemporary Christian Music,Gravity,Lecrae
+258,Best Contemporary Christian Music Album,2012,Gospel/Contemporary Christian Music,Eye On It,TobyMac
+259,Best Latin Pop Album,2012,Latin,MTV Unplugged Deluxe Edition,Juanes
+260,"Best Latin Rock, Urban or Alternative Album",2012,Latin,Imaginaries,Quetzal
+261,Best Regional Mexican Music Album (Including Tejano),2012,Latin,Pecados Y Milagros,Lila Downs
+262,Best Tropical Latin Album,2012,Latin,Retro,Marlow Rosado Y La Riqueña
+263,Best Americana Album,2012,American Roots Music,Slipstream,Bonnie Raitt
+264,Best Bluegrass Album,2012,American Roots Music,Nobody Knows You,
+265,Best Blues Album,2012,American Roots Music,Locked Down,Dr. John
+266,Best Folk Album,2012,American Roots Music,The Goat Rodeo Sessions,Yo-Yo Ma
+267,Best Regional Roots Music Album,2012,American Roots Music,The Band Courtbouillon,Wayne Toups
+268,Best Reggae Album,2012,Reggae,Rebirth,Jimmy Cliff
+269,Best World Music Album,2012,World Music,The Living Room Sessions Part 1,Ravi Shankar
+270,Best Children's Album,2012,Children's,Can You Canoe?,The Okee Dokee Brothers
+271,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",2012,Spoken Word,Society's Child: My Autobiography,Janis Ian
+272,Best Comedy Album,2012,Comedy,Blow Your Pants Off,Jimmy Fallon
+273,Best Musical Theater Album,2012,Musical Theater,Once: A New Musical,"Original Broadway Cast With Steve Kazee, Cristin Milioti & Others"
+274,Best Album Notes,2012,Notes,Singular Genius: The Complete ABC Singles,Ray Charles
+275,Best Historical Album,2012,Historical,The Smile Sessions (Deluxe Box Set),The Beach Boys
+276,"Best Engineered Album, Non-Classical",2012,"Production, Non-Classical",The Goat Rodeo Sessions,"Yo-Yo Ma, Stuart Duncan, Edgar Meyer & Chris Thile"
+277,Best Surround Sound Album,2012,"Production, Immersive Audio",Modern Cool,Patricia Barber
+278,"Best Engineered Album, Classical",2012,"Production, Classical",Life & Breath - Choral Works By René Clausen,Charles Bruffy & Kansas City Chorale
+279,Album Of The Year,2011,General,21,Adele
+280,Best Pop Instrumental Album,2011,Pop,The Road From Memphis,Booker T. Jones
+281,Best Pop Vocal Album,2011,Pop,21,Adele
+282,Best Dance/Electronica Album,2011,Dance/Electronic Music,Scary Monsters And Nice Sprites,Skrillex
+283,Best Traditional Pop Vocal Album,2011,Traditional Pop,Duets II,Tony Bennett
+284,Best Rock Album,2011,Rock,Wasting Light,Foo Fighters
+285,Best Alternative Music Album,2011,Alternative,Bon Iver,Bon Iver
+286,Best R&B Album,2011,R&B,F.A.M.E.,Chris Brown
+287,Best Rap Album,2011,Rap,My Beautiful Dark Twisted Fantasy,Kanye West
+288,Best Country Album,2011,Country,Own The Night,Lady Antebellum
+289,Best New Age Album,2011,New Age,What's It All About,Pat Metheny
+290,Best Jazz Vocal Album,2011,Jazz,The Mosaic Project,Terri Lyne Carrington
+291,Best Jazz Instrumental Album,2011,Jazz,Forever,
+292,Best Large Jazz Ensemble Album,2011,Jazz,The Good Feeling,Christian McBride Big Band
+293,Best Gospel Album,2011,Gospel/Contemporary Christian Music,Hello Fear,Kirk Franklin
+294,Best Contemporary Christian Music Album,2011,Gospel/Contemporary Christian Music,And If Our God Is For Us...,Chris Tomlin
+295,"Best Latin Pop, Rock, Or Urban Album",2011,Latin,Drama Y Luz,Maná
+296,Best Regional Mexican Or Tejano Album,2011,Latin,Bicentenario,Pepe Aguilar
+297,Best Banda Or Norteño Album,2011,Latin,Los Tigres Del Norte And Friends,Los Tigres Del Norte
+298,Best Tropical Latin Album,2011,Latin,The Last Mambo,Cachao
+299,Best Americana Album,2011,American Roots Music,Ramble At The Ryman,Levon Helm
+300,Best Bluegrass Album,2011,American Roots Music,Paper Airplane,Alison Krauss & Union Station
+301,Best Blues Album,2011,American Roots Music,Revelator,Tedeschi Trucks Band
+302,Best Folk Album,2011,American Roots Music,Barton Hollow,The Civil Wars
+303,Best Regional Roots Music Album,2011,American Roots Music,Rebirth Of New Orleans,Rebirth Brass Band
+304,Best Reggae Album,2011,Reggae,Revelation Pt. 1: The Root Of Life,Stephen Marley
+305,Best World Music Album,2011,World Music,Tassili,Tinariwen
+306,Best Children's Album,2011,Children's,All About Bullies... Big And Small,Various Artists
+307,"Best Spoken Word Album (Includes Poetry, Audio Books & Storytelling)",2011,Spoken Word,If You Ask Me (And Of Course You Won't),Betty White
+308,Best Comedy Album,2011,Comedy,Hilarious,Louis C.K.
+309,Best Musical Theater Album,2011,Musical Theater,The Book Of Mormon,Original Broadway Cast
+310,Best Album Notes,2011,Notes,"Hear Me Howling!: Blues, Ballads & Beyond As Recorded By The San Francisco Bay By Chris Strachwitz In The 1960s",Various Artists
+311,Best Historical Album,2011,Historical,Band On The Run (Paul McCartney Archive Collection - Deluxe Edition),Paul McCartney & Wings
+312,"Best Engineered Album, Non-Classical",2011,"Production, Non-Classical",Paper Airplane,Alison Krauss & Union Station
+313,Best Surround Sound Album,2011,"Production, Immersive Audio",Layla And Other Assorted Love Songs (Super Deluxe Edition),Derek & The Dominos
+314,"Best Engineered Album, Classical",2011,"Production, Classical",Aldridge: Elmer Gantry,"William Boggs, Keith Phares, Patricia Risley, Vale Rideout, Frank Kelley, Heather Buck, Florentine Opera Chorus & Milwaukee Symphony Orchestra"
+315,Album Of The Year,2010,General,The Suburbs,Arcade Fire
+316,Best Pop Instrumental Album,2010,Pop,Take Your Pick,Larry Carlton
+317,Best Pop Vocal Album,2010,Pop,The Fame Monster,Lady Gaga
+318,Best Electronic/Dance Album,2010,Dance/Electronic Music,La Roux,La Roux
+319,Best Traditional Pop Vocal Album,2010,Traditional Pop,Crazy Love,Michael Bublé
+320,Best Rock Album,2010,Rock,The Resistance,Muse
+321,Best Alternative Music Album,2010,Alternative,Brothers,
+322,Best R&B Album,2010,R&B,Wake Up!,John Legend
+323,Best Contemporary R&B Album,2010,R&B,Raymond V Raymond,Usher
+324,Best Rap Album,2010,Rap,Recovery,Eminem
+325,Best Country Album,2010,Country,Need You Now,Lady Antebellum
+326,Best New Age Album,2010,New Age,Miho: Journey To The Mountain,Paul Winter Consort
+327,Best Contemporary Jazz Album,2010,Jazz,The Stanley Clarke Band,The Stanley Clarke Band
+328,Best Jazz Vocal Album,2010,Jazz,Eleanora Fagan (1915-1959): To Billie With Love From Dee Dee,Dee Dee Bridgewater
+329,"Best Jazz Instrumental Album, Individual or Group",2010,Jazz,Moody 4B,James Moody
+330,Best Large Jazz Ensemble Album,2010,Jazz,Mingus Big Band Live At Jazz Standard,Mingus Big Band
+331,Best Latin Jazz Album,2010,Jazz,Chucho's Steps,Chucho Valdés
+332,Best Rock Or Rap Gospel Album,2010,Gospel/Contemporary Christian Music,Hello Hurricane,Switchfoot
+333,Best Pop/Contemporary Gospel Album,2010,Gospel/Contemporary Christian Music,Love God. Love People.,Israel Houghton
+334,"Best Southern, Country, Or Bluegrass Gospel Album",2010,Gospel/Contemporary Christian Music,The Reason,Diamond Rio
+335,Best Traditional Gospel Album,2010,Gospel/Contemporary Christian Music,Downtown Church,Patty Griffin
+336,Best Contemporary R&B Gospel Album,2010,Gospel/Contemporary Christian Music,Still,CeCe Winans
+337,Best Latin Pop Album,2010,Latin,Paraiso Express,Alejandro Sanz
+338,"Best Latin Rock, Alternative Or Urban Album",2010,Latin,El Existential,Grupo Fantasma
+339,Best Tropical Latin Album,2010,Latin,Viva La Tradición,
+340,Best Tejano Album,2010,Latin,Recuerdos,Little Joe & La Familia
+341,Best Norteño Album,2010,Latin,Classic,Intocable
+342,Best Banda Album,2010,Latin,Enamórate De Mí,El Güero Y Su Banda Centanario
+343,Best Americana Album,2010,American Roots Music,You Are Not Alone,Mavis Staples
+344,Best Bluegrass Album,2010,American Roots Music,Mountain Soul II,Patty Loveless
+345,Best Traditional Blues Album,2010,American Roots Music,Joined At The Hip,
+346,Best Contemporary Blues Album,2010,American Roots Music,Living Proof,Buddy Guy
+347,Best Traditional Folk Album,2010,American Roots Music,Genuine Negro Jig,Carolina Chocolate Drops
+348,Best Contemporary Folk Album,2010,American Roots Music,God Willin' & The Creek Don't Rise,Ray LaMontagne
+349,Best Hawaiian Music Album,2010,American Roots Music,Huana Ke Aloha,Tia Carrere
+350,Best Native American Music Album,2010,American Roots Music,2010 Gathering Of Nations Pow Wow: A Spirit's Dance,Derek Mathews
+351,Best Zydeco Or Cajun Music Album,2010,American Roots Music,Zydeco Junkie,Chubby Carrier And The Bayou Swamp
+352,Best Reggae Album,2010,Reggae,Before The Dawn,Buju Banton
+353,Best Traditional World Music Album,2010,World Music,Ali And Toumani,
+354,Best Contemporary World Music Album,2010,World Music,"Throw Down Your Heart , Africa Sessions Part 2: Unreleased Tracks",Béla Fleck
+355,Best Musical Album For Children,2010,Children's,Tomorrow's Children,Pete Seeger
+356,Best Spoken Word Album For Children,2010,Children's,"Julie Andrews' Collection Of Poems, Songs, And Lullabies",Julie Andrews
+357,"Best Spoken Word Album (Includes Poetry, Audio Books & Story Telling)",2010,Spoken Word,The Daily Show With Jon Stewart Presents Earth (The Audiobook),Rory Albanese
+358,Best Comedy Album,2010,Comedy,Stark Raving Black,Lewis Black
+359,Best Musical Show Album,2010,Musical Theater,American Idiot - Featuring Green Day,"Original Broadway Cast With John Gallagher, Jr., Michael Esper & Others"
+360,"Best Compilation Soundtrack Album For Motion Picture, Television Or Other Visual Media",2010,Music for Visual Media,Crazy Heart,Stephen Bruton
+361,"Best Score Soundtrack Album For Motion Picture, Television Or Other Visual Media",2010,Composing/Arranging,Toy Story 3,Randy Newman
+362,Best Album Notes,2010,Notes,Keep An Eye On The Sky,Big Star
+363,Best Historical Album,2010,Historical,The Beatles (The Original Studio Recordings),The Beatles
+364,"Best Engineered Album, Non-Classical",2010,"Production, Non-Classical",Battle Studies,John Mayer
+365,Best Surround Sound Album,2010,"Production, Immersive Audio",Britten's Orchestra,Michael Stern & Kansas City Symphony
+366,"Best Engineered Album, Classical",2010,"Production, Classical","Porter, Quincy: Complete Viola Works",Eliesha Nelson & John McLaughlin Williams
+367,Best Classical Album,2010,Classical,Verdi: Requiem,Duain Wolfe
+368,Best Classical Crossover Album,2010,Classical,"Tin, Christopher: Calling All Dawns",Lucas Richman
+369,Album Of The Year,2009,General,Fearless,Taylor Swift
+370,Best Pop Instrumental Album,2009,Pop,Potato Hole,Booker T. Jones
+371,Best Pop Vocal Album,2009,Pop,The E.N.D.,Black Eyed Peas
+372,Best Electronic/Dance Album,2009,Dance/Electronic Music,The Fame,Lady Gaga
+373,Best Traditional Pop Vocal Album,2009,Traditional Pop,Michael Bublé Meets Madison Square Garden,Michael Bublé
+374,Best Rock Album,2009,Rock,21st Century Breakdown,Green Day
+375,Best Alternative Music Album,2009,Alternative,Wolfgang Amadeus Phoenix,Phoenix
+376,Best R&B Album,2009,R&B,Blacksummers' Night,Maxwell
+377,Best Contemporary R&B Album,2009,R&B,I Am... Sasha Fierce,
+378,Best Rap Album,2009,Rap,Relapse,Eminem
+379,Best Country Album,2009,Country,Fearless,Taylor Swift
+380,Best New Age Album,2009,New Age,Prayer For Compassion,David Darling
+381,Best Contemporary Jazz Album,2009,Jazz,75,Joe Zawinul & The Zawinul Syndicate
+382,Best Jazz Vocal Album,2009,Jazz,Dedicated To You: Kurt Elling Sings The Music Of Coltrane And Hartman,Kurt Elling
+383,"Best Jazz Instrumental Album, Individual or Group",2009,Jazz,Five Peace Band - Live,Chick Corea
+384,Best Large Jazz Ensemble Album,2009,Jazz,Book One,New Orleans Jazz Orchestra
+385,Best Latin Jazz Album,2009,Jazz,Juntos Para Siempre,Bebo Valdés
+386,Best Rock Or Rap Gospel Album,2009,Gospel/Contemporary Christian Music,Live Revelations,Third Day
+387,Best Pop/Contemporary Gospel Album,2009,Gospel/Contemporary Christian Music,The Power Of One,Israel Houghton
+388,"Best Southern, Country, Or Bluegrass Gospel Album",2009,Gospel/Contemporary Christian Music,Jason Crabb,Jason Crabb
+389,Best Traditional Gospel Album,2009,Gospel/Contemporary Christian Music,Oh Happy Day,Various Artists
+390,Best Contemporary R&B Gospel Album,2009,Gospel/Contemporary Christian Music,Audience Of One,Heather Headley
+391,Best Latin Pop Album,2009,Latin,Sin Frenos,La Quinta Estación
+392,"Best Latin Rock, Alternative Or Urban Album",2009,Latin,Los De Atras Vienen Conmigo,Calle 13
+393,Best Tropical Latin Album,2009,Latin,Ciclos,Luis Enrique
+394,Best Regional Mexican Album,2009,Latin,Necesito De Ti,Vicente Fernández
+395,Best Tejano Album,2009,Latin,Borders Y Bailes,Los Texmaniacs
+396,Best Norteño Album,2009,Latin,Tu Noche Con...Los Tigres Del Norte,Los Tigres Del Norte
+397,Best Banda Album,2009,Latin,Tu Esclavo Y Amo,Lupillo Rivera
+398,Best Americana Album,2009,American Roots Music,Electric Dirt,Levon Helm
+399,Best Bluegrass Album,2009,American Roots Music,The Crow: New Songs For The Five-String Banjo,Steve Martin
+400,Best Traditional Blues Album,2009,American Roots Music,A Stranger Here,Ramblin' Jack Elliott
+401,Best Contemporary Blues Album,2009,American Roots Music,Already Free,The Derek Trucks Band
+402,Best Traditional Folk Album,2009,American Roots Music,High Wide & Handsome: The Charlie Poole Project,Loudon Wainwright
+403,Best Contemporary Folk Album,2009,American Roots Music,Townes,Steve Earle
+404,Best Hawaiian Music Album,2009,American Roots Music,"Masters Of Hawaiian Slack Key Guitar, Volume 2",Peter DeAquino
+405,Best Native American Music Album,2009,American Roots Music,Spirit Wind North,Bill Miller
+406,Best Zydeco Or Cajun Music Album,2009,American Roots Music,Lay Your Burden Down,Buckwheat Zydeco
+407,Best Reggae Album,2009,Reggae,Mind Control - Acoustic,Stephen Marley
+408,Best Traditional World Music Album,2009,World Music,Douga Mansa,Mamadou Diabate
+409,Best Contemporary World Music Album,2009,World Music,"Throw Down Your Heart: Tales From The Acoustic Planet, Vol. 3 - Africa Sessions",Béla Fleck
+410,Best Musical Album For Children,2009,Children's,Family Time,Ziggy Marley
+411,Best Spoken Word Album For Children,2009,Children's,"Aaaaah! Spooky, Scary Stories & Songs",Buck Howdy
+412,"Best Spoken Word Album (Includes Poetry, Audio Books & Story Telling)",2009,Spoken Word,Always Looking Up,Michael J. Fox
+413,Best Comedy Album,2009,Comedy,A Colbert Christmas: The Greatest Gift Of All!,Stephen Colbert
+414,Best Musical Show Album,2009,Musical Theater,West Side Story,"New Broadway Cast with Matt Cavenaugh, Josefina Scaglione & Others"
+415,"Best Compilation Soundtrack Album For Motion Picture, Television Or Other Visual Media",2009,Music for Visual Media,Slumdog Millionaire,A.R. Rahman
+416,"Best Score Soundtrack Album For Motion Picture, Television Or Other Visual Media",2009,Composing/Arranging,Up,Various Artists
+417,Best Album Notes,2009,Notes,The Complete Louis Armstrong Decca Sessions (1935-1946),Louis Armstrong
+418,Best Historical Album,2009,Historical,The Complete Chess Masters (1950-1967),Little Walter
+419,"Best Engineered Album, Non-Classical",2009,"Production, Non-Classical",Ellipse,Imogen Heap
+420,Best Surround Sound Album,2009,"Production, Immersive Audio",Transmigration,"Robert Spano, Atlanta Symphony Orchestra & Choruses"
+421,"Best Engineered Album, Classical",2009,"Production, Classical",Mahler: Symphony No. 8; Adagio From Symphony No. 10,Michael Tilson Thomas & San Francisco Symphony
+422,Best Classical Album,2009,Classical,Mahler: Symphony No. 8; Adagio From Symphony No. 10,Michael Tilson Thomas
+423,Best Classical Crossover Album,2009,Classical,Yo-Yo Ma & Friends: Songs Of Joy And Peace,Yo-Yo Ma
+424,Album Of The Year,2008,General,Raising Sand,Robert Plant
+425,Best Pop Instrumental Album,2008,Pop,Jingle All The Way,Béla Fleck & The Flecktones
+426,Best Pop Vocal Album,2008,Pop,Rockferry,Duffy
+427,Best Electronic/Dance Album,2008,Dance/Electronic Music,Alive 2007,Daft Punk
+428,Best Traditional Pop Vocal Album,2008,Traditional Pop,Still Unforgettable,Natalie Cole
+429,Best Rock Album,2008,Rock,Viva La Vida Or Death And All His Friends,Coldplay
+430,Best Alternative Music Album,2008,Alternative,In Rainbows,Radiohead
+431,Best R&B Album,2008,R&B,Jennifer Hudson,Jennifer Hudson
+432,Best Contemporary R&B Album,2008,R&B,Growing Pains,Mary J. Blige
+433,Best Rap Album,2008,Rap,Tha Carter III,Lil Wayne
+434,Best Country Album,2008,Country,Troubadour,George Strait
+435,Best Bluegrass Album,2008,American Roots Music,Honoring The Fathers Of Bluegrass: Tribute To 1946 And 1947,Ricky Skaggs
+436,Best New Age Album,2008,New Age,Peace Time,Jack DeJohnette
+437,Best Contemporary Jazz Album,2008,Jazz,Randy In Brasil,Randy Brecker
+438,Best Jazz Vocal Album,2008,Jazz,Loverly,Cassandra Wilson
+439,"Best Jazz Instrumental Album, Individual or Group",2008,Jazz,The New Crystal Silence,Chick Corea
+440,Best Large Jazz Ensemble Album,2008,Jazz,Monday Night Live At The Village Vanguard,Vanguard Jazz Orchestra
+441,Best Latin Jazz Album,2008,Jazz,Song For Chico,Arturo O'Farrill & The Afro-Latin Jazz Orchestra
+442,Best Rock Or Rap Gospel Album,2008,Gospel/Contemporary Christian Music,Alive And Transported,TobyMac
+443,Best Pop/Contemporary Gospel Album,2008,Gospel/Contemporary Christian Music,Thy Kingdom Come,CeCe Winans
+444,"Best Southern, Country, Or Bluegrass Gospel Album",2008,Gospel/Contemporary Christian Music,Lovin' Life,
+445,Best Traditional Gospel Album,2008,Gospel/Contemporary Christian Music,Down In New Orleans,Blind Boys Of Alabama
+446,Best Contemporary R&B Gospel Album,2008,Gospel/Contemporary Christian Music,The Fight Of My Life,Kirk Franklin
+447,Best Latin Pop Album,2008,Latin,La Vida...Es Un Ratico,Juanes
+448,Best Latin Rock Or Alternative Album,2008,Latin,45,Jaguares
+449,Best Latin Urban Album,2008,Latin,Los Extraterrestres,Wisin y Yandel
+450,Best Tropical Latin Album,2008,Latin,Señor Bachata,
+451,Best Regional Mexican Album,2008,Latin,Canciones De Amor,Nati Cano
+452,Best Tejano Album,2008,Latin,Viva La Revolucion,Ruben Ramos & The Mexican Revolution
+453,Best Norteño Album,2008,Latin,Raíces,Los Tigres Del Norte
+454,Best Banda Album,2008,Latin,No Es De Madera,
+455,Best Traditional Blues Album,2008,American Roots Music,One Kind Favor,B.B. King
+456,Best Contemporary Blues Album,2008,American Roots Music,City That Care Forgot,Dr. John
+457,Best Traditional Folk Album,2008,American Roots Music,At 89,Pete Seeger
+458,Best Contemporary Folk/Americana Album,2008,American Roots Music,Raising Sand,Robert Plant
+459,Best Native American Music Album,2008,American Roots Music,Come To Me Great Mystery - Native American Healing Songs,Thomas A. Wasinger
+460,Best Hawaiian Music Album,2008,American Roots Music,Ikena,Tia Carrere
+461,Best Zydeco Or Cajun Music Album,2008,American Roots Music,Live At The 2008 New Orleans Jazz & Heritage Festival,BeauSoleil
+462,Best Reggae Album,2008,Reggae,Jah Is Real,Burning Spear
+463,Best Traditional World Music Album,2008,World Music,Ilembe: Honoring Shaka Zulu,Ladysmith Black Mambazo
+464,Best Contemporary World Music Album,2008,World Music,Global Drum Project,Mickey Hart
+465,Best Polka Album,2008,Polka,Let The Whole World Sing,Jimmy Sturr And His Orchestra
+466,Best Musical Album For Children,2008,Children's,Here Come The 123s,They Might Be Giants
+467,Best Spoken Word Album For Children,2008,Children's,Yes To Running! Bill Harley Live,Bill Harley
+468,"Best Spoken Word Album (Includes Poetry, Audio Books & Story Telling)",2008,Spoken Word,An Inconvenient Truth (Al Gore),Beau Bridges
+469,Best Comedy Album,2008,Comedy,It's Bad For Ya,George Carlin
+470,Best Musical Show Album,2008,Musical Theater,In The Heights,Original Broadway Cast With Lin-Manuel Miranda And Others
+471,"Best Compilation Soundtrack Album For Motion Picture, Television Or Other Visual Media",2008,Music for Visual Media,Juno,Peter Afterman
+472,"Best Score Soundtrack Album For Motion Picture, Television Or Other Visual Media",2008,Composing/Arranging,The Dark Knight,Hans Zimmer & James Newton Howard
+473,Best Album Notes,2008,Notes,Kind Of Blue: 50th Anniversary Collector's Edition,Miles Davis
+474,Best Historical Album,2008,Historical,Art Of Field Recording Volume I: Fifty Years Of Traditional American Music Documented By Art Rosenbaum,Various Artists
+475,"Best Engineered Album, Non-Classical",2008,"Production, Non-Classical",Consolers Of The Lonely,The Raconteurs
+476,Best Surround Sound Album,2008,"Production, Immersive Audio",Mussorgsky: Pictures At An Exhibition; Night On Bald Mountain; Prelude To Khovanshchina,Paavo Järvi & Cincinnati Symphony Orchestra
+477,"Best Engineered Album, Classical",2008,"Production, Classical",Traditions And Transformations: Sounds Of Silk Road Chicago,"Miguel Harth-Bedoya, Alan Gilbert, Silk Road Ensemble, Wu Man, Yo-Yo Ma & Chicago Symphony Orchestra"
+478,Best Classical Album,2008,Classical,Weill: Rise And Fall Of The City Of Mahagonny,James Conlon
+479,Best Classical Crossover Album,2008,Classical,Simple Gifts,The King's Singers
+480,Album Of The Year,2007,General,River: The Joni Letters,Herbie Hancock
+481,Best Pop Instrumental Album,2007,Pop,The Mix-Up,Beastie Boys
+482,Best Pop Vocal Album,2007,Pop,Back To Black,Amy Winehouse
+483,Best Electronic/Dance Album,2007,Dance/Electronic Music,We Are The Night,The Chemical Brothers
+484,Best Traditional Pop Vocal Album,2007,Traditional Pop,Call Me Irresponsible,Michael Bublé
+485,Best Rock Album,2007,Rock,"Echoes, Silence, Patience & Grace",Foo Fighters
+486,Best Alternative Music Album,2007,Alternative,Icky Thump,White Stripes
+487,Best R&B Album,2007,R&B,Funk This,Chaka Khan
+488,Best Contemporary R&B Album,2007,R&B,Because Of You,Ne-Yo
+489,Best Rap Album,2007,Rap,Graduation,Kanye West
+490,Best Country Album,2007,Country,These Days,Vince Gill
+491,Best Bluegrass Album,2007,American Roots Music,The Bluegrass Diaries,Jim Lauderdale
+492,Best New Age Album,2007,New Age,Crestone,Paul Winter Consort
+493,Best Contemporary Jazz Album,2007,Jazz,River: The Joni Letters,Herbie Hancock
+494,Best Jazz Vocal Album,2007,Jazz,Avant Gershwin,Patti Austin
+495,"Best Jazz Instrumental Album, Individual or Group",2007,Jazz,Pilgrimage,Michael Brecker
+496,Best Large Jazz Ensemble Album,2007,Jazz,A Tale Of God's Will (A Requiem For Katrina),Terence Blanchard
+497,Best Latin Jazz Album,2007,Jazz,Funk Tango,Paquito D'Rivera Quintet
+498,Best Rock Or Rap Gospel Album,2007,Gospel/Contemporary Christian Music,Before The Daylight's Shot,Ashley Cleveland
+499,Best Pop/Contemporary Gospel Album,2007,Gospel/Contemporary Christian Music,A Deeper Level,
+500,"Best Southern, Country, Or Bluegrass Gospel Album",2007,Gospel/Contemporary Christian Music,Salt Of The Earth,Ricky Skaggs
+501,Best Traditional Gospel Album,2007,Gospel/Contemporary Christian Music,Live - One Last Time,The Clark Sisters
+502,Best Contemporary R&B Gospel Album,2007,Gospel/Contemporary Christian Music,Free To Worship,Fred Hammond
+503,Best Latin Pop Album,2007,Latin,El Tren De Los Momentos,Alejandro Sanz
+504,Best Latin Rock Or Alternative Album,2007,Latin,No Hay Espacio,
+505,Best Latin Urban Album,2007,Latin,Residente O Visitante,Calle 13
+506,Best Tropical Latin Album,2007,Latin,La Llave De Mi Corazón,Juan Luis Guerra
+507,Best Mexican/Mexican-American Album,2007,Latin,100% Mexicano,Pepe Aguilar
+508,Best Tejano Album,2007,Latin,Before The Next Teardrop Falls,
+509,Best Norteño Album,2007,Latin,Detalles Y Emociones,Los Tigres Del Norte
+510,Best Banda Album,2007,Latin,Te Va A Gustar,El Chapo
+511,Best Traditional Blues Album,2007,American Roots Music,Last Of The Great Mississippi Delta Bluesmen: Live In Dallas,Henry James Townsend
+512,Best Contemporary Blues Album,2007,American Roots Music,The Road To Escondido,JJ Cale
+513,Best Traditional Folk Album,2007,American Roots Music,Dirt Farmer,Levon Helm
+514,Best Contemporary Folk/Americana Album,2007,American Roots Music,Washington Square Serenade,Steve Earle
+515,Best Native American Music Album,2007,American Roots Music,Totemic Flute Chants,Johnny Whitehorse
+516,Best Hawaiian Music Album,2007,American Roots Music,Treasures Of Hawaiian Slack Key Guitar,Peter Deaquino
+517,Best Zydeco Or Cajun Music Album,2007,American Roots Music,Live! Worldwide,Terrance Simien & The Zydeco Experience
+518,Best Reggae Album,2007,Reggae,Mind Control,Stephen Marley
+519,Best Traditional World Music Album,2007,World Music,African Spirit,Soweto Gospel Choir
+520,Best Contemporary World Music Album,2007,World Music,Djin Djin,Angelique Kidjo
+521,Best Polka Album,2007,Polka,Come Share The Wine,Jimmy Sturr
+522,Best Musical Album For Children,2007,Children's,A Green And Red Christmas,
+523,Best Spoken Word Album For Children,2007,Children's,Harry Potter And The Deathly Hallows,Jim Dale
+524,"Best Spoken Word Album (Includes Poetry, Audio Books & Story Telling)",2007,Spoken Word,The Audacity Of Hope: Thoughts On Reclaiming The American Dream,Barack Obama
+525,Best Comedy Album,2007,Comedy,The Distant Future,Flight Of The Conchords
+526,Best Musical Show Album,2007,Musical Theater,Spring Awakening,"Original Broadway Cast With Jonathan Groff, Lea Michele & Others"
+527,"Best Compilation Soundtrack Album For Motion Picture, Television Or Other Visual Media",2007,Music for Visual Media,Love,George Martin
+528,"Best Score Soundtrack Album For Motion Picture, Television Or Other Visual Media",2007,Composing/Arranging,Ratatouille,Various Artists
+529,Best Album Notes,2007,Notes,"John Work, III: Recording Black Culture",Various Artists
+530,Best Historical Album,2007,Historical,The Live Wire - Woody Guthrie In Performance 1949,Woody Guthrie
+531,"Best Engineered Album, Non-Classical",2007,"Production, Non-Classical",Beauty & Crime,Suzanne Vega
+532,Best Surround Sound Album,2007,"Production, Immersive Audio",Love,The Beatles
+533,"Best Engineered Album, Classical",2007,"Production, Classical",Grechaninov: Passion Week,"Charles Bruffy, Phoenix Bach Choir & Kansas City Chorale"
+534,Best Classical Album,2007,Classical,Tower: Made In America,Leonard Slatkin
+535,Best Classical Crossover Album,2007,Classical,A Love Supreme: The Legacy Of John Coltrane,
+536,Album Of The Year,2006,General,Taking The Long Way,Dixie Chicks
+537,Best Pop Instrumental Album,2006,Pop,Fingerprints,Peter Frampton
+538,Best Pop Vocal Album,2006,Pop,Continuum,John Mayer
+539,Best Electronic/Dance Album,2006,Dance/Electronic Music,Confessions On A Dance Floor,Madonna
+540,Best Traditional Pop Vocal Album,2006,Traditional Pop,Duets:  An American Classic,Tony Bennett
+541,Best Rock Album,2006,Rock,Stadium Arcadium,Red Hot Chili Peppers
+542,Best Alternative Music Album,2006,Alternative,St. Elsewhere,Gnarls Barkley
+543,Best R&B Album,2006,R&B,The Breakthrough,Mary J. Blige
+544,Best Contemporary R&B Album,2006,R&B,B'Day,
+545,Best Rap Album,2006,Rap,Release Therapy,Ludacris
+546,Best Country Album,2006,Country,Taking The Long Way,Dixie Chicks
+547,Best Bluegrass Album,2006,American Roots Music,Instrumentals,Ricky Skaggs And Kentucky Thunder
+548,Best New Age Album,2006,New Age,Amarantine,Enya
+549,Best Contemporary Jazz Album,2006,Jazz,The Hidden Land,Béla Fleck
+550,Best Jazz Vocal Album,2006,Jazz,Turned To Blue,Nancy Wilson
+551,"Best Jazz Instrumental Album, Individual or Group",2006,Jazz,The Ultimate Adventure,Chick Corea
+552,Best Large Jazz Ensemble Album,2006,Jazz,Some Skunk Funk,Randy Brecker
+553,Best Latin Jazz Album,2006,Jazz,Simpático,Brian Lynch
+554,Best Rock Or Rap Gospel Album,2006,Gospel/Contemporary Christian Music,Turn Around,Jonny Lang
+555,Best Pop/Contemporary Gospel Album,2006,Gospel/Contemporary Christian Music,Wherever You Are,Third Day
+556,"Best Southern, Country, Or Bluegrass Gospel Album",2006,Gospel/Contemporary Christian Music,Glory Train,Randy Travis
+557,Best Traditional Gospel Album,2006,Gospel/Contemporary Christian Music,Alive In South Africa,Israel & New Breed
+558,Best Contemporary R&B Gospel Album,2006,Gospel/Contemporary Christian Music,Hero,Kirk Franklin
+559,Best Latin Pop Album,2006,Latin,Limón Y Sal,
+560,"Best Latin Rock, Alternative Or Urban Album",2006,Latin,Amar Es Combatir,
+561,Best Tropical Latin Album,2006,Latin,Directo Al Corazón,Gilberto Santa Rosa
+562,Best Mexican/Mexican-American Album,2006,Latin,Historias De Mi Tierra,Pepe Aguilar
+563,Best Tejano Album,2006,Latin,Sigue El Taconazo,Chente Barrera y Taconazo
+564,Best Norteño Album,2006,Latin,Historias Que Contar,Los Tigres Del Norte
+565,Best Banda Album,2006,Latin,Más Allá Del Sol,
+566,Best Traditional Blues Album,2006,American Roots Music,Risin' With The Blues,Ike Turner
+567,Best Contemporary Blues Album,2006,American Roots Music,After The Rain,Irma Thomas
+568,Best Traditional Folk Album,2006,American Roots Music,We Shall Overcome - The Seeger Sessions,Bruce Springsteen
+569,Best Contemporary Folk/Americana Album,2006,American Roots Music,Modern Times,Bob Dylan
+570,Best Native American Music Album,2006,American Roots Music,Dance With The Wind,Mary Youngblood
+571,Best Hawaiian Music Album,2006,American Roots Music,Legends Of Hawaiian Slack Key Guitar - Live From Maui,Various Artists
+572,Best Reggae Album,2006,Reggae,Love Is My Religion,Ziggy Marley
+573,Best Traditional World Music Album,2006,World Music,Blessed,Soweto Gospel Choir
+574,Best Contemporary World Music Album,2006,World Music,Wonder Wheel - Lyrics By Woody Guthrie,The Klezmatics
+575,Best Polka Album,2006,Polka,Polka In Paradise,Jimmy Sturr
+576,Best Musical Album For Children,2006,Children's,Catch That Train!,
+577,Best Spoken Word Album For Children,2006,Children's,"Blah Blah Blah: Stories About Clams, Swamp Monsters, Pirates & Dogs",Bill Harley
+578,"Best Spoken Word Album (Includes Poetry, Audio Books & Story Telling)",2006,Spoken Word,With Ossie And Ruby:  In This Life Together,Jimmy Carter
+579,Best Comedy Album,2006,Comedy,The Carnegie Hall Performance,Lewis Black
+580,Best Musical Show Album,2006,Musical Theater,Jersey Boys,"Original Broadway Cast With Christian Hoff, Daniel Reichard, J. Robert Spencer, John Lloyd Young & Others"
+581,"Best Compilation Soundtrack Album For Motion Picture, Television Or Other Visual Media",2006,Music for Visual Media,Walk The Line,Joaquin Phoenix
+582,"Best Score Soundtrack Album For Motion Picture, Television Or Other Visual Media",2006,Composing/Arranging,Memoirs Of A Geisha,"Itzhak Perlman, Yo-Yo Ma & John Williams"
+583,Best Album Notes,2006,Notes,"If You Got To Ask, You Ain't Got It!",Fats Waller
+584,Best Historical Album,2006,Historical,Lost Sounds: Blacks And The Birth Of The Recording Industry 1891-1922,Various Artists
+585,"Best Engineered Album, Non-Classical",2006,"Production, Non-Classical",At War With The Mystics,"Wayne Coyne, Steven Drozd & Michael Ivins), engineers (The Flaming Lips"
+586,Best Surround Sound Album,2006,"Production, Immersive Audio",Morph The Cat,Donald Fagen
+587,"Best Engineered Album, Classical",2006,"Production, Classical","Elgar: Enigma Variations; Britten: The Young Person's Guide To The Orchestra, Four Sea Interludes",Paavo Järvi & Cincinnati Symphony Orchestra
+588,Best Classical Album,2006,Classical,Mahler: Symphony No. 7,Michael Tilson Thomas
+589,Best Classical Crossover Album,2006,Classical,Simple Gifts,Bryn Terfel
+590,Album Of The Year,2005,General,How To Dismantle An Atomic Bomb,U2
+591,Best Pop Instrumental Album,2005,Pop,At This Time,Burt Bacharach
+592,Best Pop Vocal Album,2005,Pop,Breakaway,Kelly Clarkson
+593,Best Electronic/Dance Album,2005,Dance/Electronic Music,Push The Button,The Chemical Brothers
+594,Best Traditional Pop Vocal Album,2005,Traditional Pop,The Art Of Romance,Tony Bennett
+595,Best Rock Album,2005,Rock,How To Dismantle An Atomic Bomb,U2
+596,Best Alternative Music Album,2005,Alternative,Get Behind Me Satan,White Stripes
+597,Best R&B Album,2005,R&B,Get Lifted,John Legend
+598,Best Contemporary R&B Album,2005,R&B,The Emancipation Of Mimi,Mariah Carey
+599,Best Rap Album,2005,Rap,Late Registration,Kanye West
+600,Best Country Album,2005,Country,Lonely Runs Both Ways,
+601,Best Bluegrass Album,2005,American Roots Music,The Company We Keep,Del McCoury Band
+602,Best New Age Album,2005,New Age,Silver Solstice,Paul Winter Consort
+603,Best Contemporary Jazz Album,2005,Jazz,The Way Up,Pat Metheny Group
+604,Best Jazz Vocal Album,2005,Jazz,"Good Night, And Good Luck.",Dianne Reeves
+605,"Best Jazz Instrumental Album, Individual or Group",2005,Jazz,Beyond The Sound Barrier,Wayne Shorter Quartet
+606,Best Large Jazz Ensemble Album,2005,Jazz,Overtime,Dave Holland
+607,Best Latin Jazz Album,2005,Jazz,Listen Here!,
+608,Best Rock Gospel Album,2005,Gospel/Contemporary Christian Music,Until My Heart Caves In,Audio Adrenaline
+609,Best Pop/Contemporary Gospel Album,2005,Gospel/Contemporary Christian Music,Lifesong,Casting Crowns
+610,"Best Southern, Country, or Bluegrass Gospel Album",2005,Gospel/Contemporary Christian Music,Rock Of Ages...Hymns & Faith,Amy Grant
+611,Best Traditional Soul Gospel Album,2005,Gospel/Contemporary Christian Music,"Psalms, Hymns & Spiritual Songs",Donnie McClurkin
+612,Best Contemporary Soul Gospel Album,2005,Gospel/Contemporary Christian Music,Purified,CeCe Winans
+613,Best Gospel Choir Or Chorus Album,2005,Gospel/Contemporary Christian Music,One Voice,Gladys Knight & The Saints Unified Voices
+614,Best Latin Pop Album,2005,Latin,Escucha,Laura Pausini
+615,Best Latin Rock/Alternative Album,2005,Latin,Fijación Oral Vol. 1,Shakira
+616,Best Traditional Tropical Latin Album,2005,Latin,Bebo De Cuba,Bebo Valdés
+617,Best Salsa/Merengue Album,2005,Latin,Son Del Alma,Willy Chirino
+618,Best Mexican/Mexican-American Album,2005,Latin,México En La Piel,Luis Miguel
+619,Best Tejano Album,2005,Latin,Chicanisimo,Little Joe Y La Familia
+620,Best Traditional Blues Album,2005,American Roots Music,80,B.B. King
+621,Best Contemporary Blues Album,2005,American Roots Music,Cost Of Living,Delbert McClinton
+622,Best Traditional Folk Album,2005,American Roots Music,Fiddler's Green,Tim O'Brien
+623,Best Contemporary Folk Album,2005,American Roots Music,Fair & Square,John Prine
+624,Best Native American Music Album,2005,American Roots Music,Sacred Ground - A Tribute To Mother Earth,Jim Wilson
+625,Best Hawaiian Music Album,2005,American Roots Music,Masters Of Hawaiian Slack Key Guitar - Vol. 1,Various Artists
+626,Best Reggae Album,2005,Reggae,Welcome To Jamrock,Damian Marley
+627,Best Traditional World Music Album,2005,World Music,In The Heart Of The Moon,
+628,Best Contemporary World Music Album,2005,World Music,Eletracústico,Gilberto Gil
+629,Best Polka Album,2005,Polka,"Shake, Rattle And Polka!",Jimmy Sturr
+630,Best Musical Album For Children,2005,Children's,Songs From The Neighborhood - The Music Of Mister Rogers,Various Artists
+631,Best Spoken Word Album For Children,2005,Children's,Marlo Thomas & Friends: Thanks & Giving All Year Long,Various Artists
+632,Best Spoken Word Album,2005,Spoken Word,Dreams From My Father (Senator Barack Obama),Senator Barack Obama
+633,Best Comedy Album,2005,Comedy,Never Scared,Chris Rock
+634,Best Musical Show Album,2005,Musical Theater,Monty Python's Spamalot,"Original Broadway Cast Including David Hyde Pierce, Tim Curry, Hank Azaria & Sara Ramirez"
+635,"Best Compilation Soundtrack Album For Motion Picture, Television Or Other Visual Media",2005,Music for Visual Media,Ray,
+636,"Best Score Soundtrack Album For Motion Picture, Television Or Other Visual Media",2005,Composing/Arranging,Ray,Various Artists
+637,Best Album Notes,2005,Notes,The Complete Library Of Congress Recordings By Alan Lomax,Jelly Roll Morton
+638,Best Historical Album,2005,Historical,The Complete Library Of Congress Recordings By Alan Lomax,Jelly Roll Morton
+639,"Best Engineered Album, Non-Classical",2005,"Production, Non-Classical",Back Home,Eric Clapton
+640,Best Surround Sound Album,2005,"Production, Immersive Audio",Brothers In Arms - 20th Anniversary Edition,Dire Straits
+641,"Best Engineered Album, Classical",2005,"Production, Classical",Mendelssohn: The Complete String Quartets,Emerson String Quartet
+642,Best Classical Album,2005,Classical,Bolcom: Songs Of Innocence And Of Experience,Leonard Slatkin
+643,Best Classical Crossover Album,2005,Classical,4 + Four,Turtle Island String Quartet
+644,Album Of The Year,2004,General,Genius Loves Company,Ray Charles
+645,Best Pop Instrumental Album,2004,Pop,Henry Mancini: Pink Guitar,Various Artists
+646,Best Pop Vocal Album,2004,Pop,Genius Loves Company,Ray Charles
+647,Best Electronic/Dance Album,2004,Dance/Electronic Music,Kish Kash,Basement Jaxx
+648,Best Traditional Pop Vocal Album,2004,Traditional Pop,Stardust...The Great American Songbook Volume III,Rod Stewart
+649,Best Rock Album,2004,Rock,American Idiot,Green Day
+650,Best Alternative Music Album,2004,Alternative,A Ghost Is Born,Wilco
+651,Best R&B Album,2004,R&B,The Diary Of Alicia Keys,Alicia Keys
+652,Best Contemporary R&B Album,2004,R&B,Confessions,Usher
+653,Best Rap Album,2004,Rap,The College Dropout,Kanye West
+654,Best Country Album,2004,Country,Van Lear Rose,Loretta Lynn
+655,Best Bluegrass Album,2004,American Roots Music,Brand New Strings,Ricky Skaggs
+656,Best New Age Album,2004,New Age,Returning,Will Ackerman
+657,Best Contemporary Jazz Album,2004,Jazz,Unspeakable,
+658,Best Jazz Vocal Album,2004,Jazz,"R.S.V.P. (Rare Songs, Very Personal)",Nancy Wilson
+659,"Best Jazz Instrumental Album, Individual or Group",2004,Jazz,Illuminations,McCoy Tyner
+660,Best Large Jazz Ensemble Album,2004,Jazz,Concert In The Garden,Maria Schneider
+661,Best Latin Jazz Album,2004,Jazz,Land Of The Sun,Charlie Haden
+662,Best Rock Gospel Album,2004,Gospel/Contemporary Christian Music,Wire,Third Day
+663,Best Pop/Contemporary Gospel Album,2004,Gospel/Contemporary Christian Music,All Things New,Steven Curtis Chapman
+664,"Best Southern, Country, or Bluegrass Gospel Album",2004,Gospel/Contemporary Christian Music,Worship & Faith,Randy Travis
+665,Best Traditional Soul Gospel Album,2004,Gospel/Contemporary Christian Music,There Will Be A Light,Ben Harper
+666,Best Contemporary Soul Gospel Album,2004,Gospel/Contemporary Christian Music,Nothing Without You,Smokie Norful
+667,Best Gospel Choir Or Chorus Album,2004,Gospel/Contemporary Christian Music,Live...This is Your House,The Brooklyn Tabernacle Choir
+668,Best Latin Pop Album,2004,Latin,Amar Sin Mentiras,Marc Anthony
+669,Best Latin Rock/Alternative Album,2004,Latin,Street Signs,Ozomatli
+670,Best Traditional Tropical Latin Album,2004,Latin,¡Ahora Sí!,Israel López
+671,Best Salsa/Merengue Album,2004,Latin,Across 110th Street,Rubén Blades
+672,Best Mexican/Mexican-American Album,2004,Latin,Intimamente,Intocable
+673,Best Tejano Album,2004,Latin,"Polkas, Gritos y Acordeónes",David Lee Garza
+674,Best Traditional Blues Album,2004,American Roots Music,Blues To The Bone,Etta James
+675,Best Contemporary Blues Album,2004,American Roots Music,Keep It Simple,Keb' Mo'
+676,Best Traditional Folk Album,2004,American Roots Music,Beautiful Dreamer - The Songs Of Stephen Foster,Various Artists
+677,Best Contemporary Folk Album,2004,American Roots Music,The Revolution Starts...Now,Steve Earle
+678,Best Native American Music Album,2004,American Roots Music,Cedar Dream Songs,Bill Miller
+679,Best Hawaiian Music Album,2004,American Roots Music,Slack Key Guitar Volume 2,Various Artists
+680,Best Reggae Album,2004,Reggae,True Love,
+681,Best Traditional World Music Album,2004,World Music,Raise Your Spirit Higher,Ladysmith Black Mambazo
+682,Best Contemporary World Music Album,2004,World Music,Egypt,Youssou N'Dour
+683,Best Polka Album,2004,Polka,Let's Kiss: 25th Anniversary Album,Brave Combo
+684,Best Musical Album For Children,2004,Children's,cELLAbration! A Tribute To Ella Jenkins,Various Artists
+685,Best Spoken Word Album For Children,2004,Children's,The Train They Call The City Of New Orleans,Tom Chapin
+686,Best Spoken Word Album,2004,Spoken Word,My Life,Bill Clinton
+687,Best Comedy Album,2004,Comedy,The Daily Show With Jon Stewart Presents...America: A Citizen's Guide To Democracy Inaction,Jon Stewart
+688,Best Musical Show Album,2004,Musical Theater,Wicked,Original Broadway Cast Recording With Kristin Chenoweth & Idina Menzel
+689,"Best Compilation Soundtrack Album For A Motion Picture, Television Or Other Visual Media",2004,Music for Visual Media,Garden State,Zach Braff
+690,"Best Score Soundtrack Album For A Motion Picture, Television Or Other Visual Media",2004,Composing/Arranging,The Lord Of The Rings - The Return Of The King,Howard Shore
+691,Best Album Notes,2004,Notes,The Complete Columbia Recordings Of Woody Herman And His Orchestra & Woodchoppers (1945-1947),Woody Herman & His Orchestra
+692,Best Historical Album,2004,Historical,"Night Train To Nashville: Music City Rhythm & Blues, 1945-1970",Various Artists
+693,"Best Engineered Album, Non-Classical",2004,"Production, Non-Classical",Genius Loves Company,Ray Charles & Various Artists
+694,Best Surround Sound Album,2004,"Production, Immersive Audio",Genius Loves Company,Ray Charles & Various Artists
+695,"Best Engineered Album, Classical",2004,"Production, Classical",Higdon: City Scape; Concerto For Orchestra,Robert Spano
+696,Best Classical Album,2004,Classical,Adams: On The Transmigration Of Souls,Lorin Maazel
+697,Best Classical Crossover Album,2004,Classical,LAGQ's Guitar Heroes,Los Angeles Guitar Quartet
+698,Album Of The Year,2003,General,Speakerboxxx/The Love Below,OutKast
+699,Best Pop Instrumental Album,2003,Pop,Mambo Sinuendo,Ry Cooder
+700,Best Pop Vocal Album,2003,Pop,Justified,Justin Timberlake
+701,Best Traditional Pop Vocal Album,2003,Traditional Pop,A Wonderful World,Tony Bennett
+702,Best Rock Album,2003,Rock,One By One,Foo Fighters
+703,Best Alternative Music Album,2003,Alternative,Elephant,White Stripes
+704,Best R&B Album,2003,R&B,Dance With My Father,Luther Vandross
+705,Best Contemporary R&B Album,2003,R&B,Dangerously In Love,
+706,Best Rap Album,2003,Rap,Speakerboxxx/The Love Below,OutKast
+707,Best Country Album,2003,Country,"Livin', Lovin',  Losin' - Songs Of The Louvin Brothers",Various Artists
+708,Best Bluegrass Album,2003,American Roots Music,Live,Alison Krauss & Union Station
+709,Best New Age Album,2003,New Age,One Quiet Night,Pat Metheny
+710,Best Contemporary Jazz Album,2003,Jazz,34th N Lex,Randy Brecker
+711,Best Jazz Vocal Album,2003,Jazz,A Little Moonlight,Dianne Reeves
+712,"Best Jazz Instrumental Album, Individual or Group",2003,Jazz,Alegría,Wayne Shorter
+713,Best Large Jazz Ensemble Album,2003,Jazz,Wide Angles,Michael Brecker Quindectet
+714,Best Latin Jazz Album,2003,Jazz,Live At The Blue Note,Michel Camilo
+715,Best Rock Gospel Album,2003,Gospel/Contemporary Christian Music,Worldwide,Audio Adrenaline
+716,Best Pop/Contemporary Gospel Album,2003,Gospel/Contemporary Christian Music,Worship Again,Michael W. Smith
+717,"Best Southern, Country, or Bluegrass Gospel Album",2003,Gospel/Contemporary Christian Music,Rise And Shine,Randy Travis
+718,Best Traditional Soul Gospel Album,2003,Gospel/Contemporary Christian Music,Go Tell It On The Mountain,Blind Boys Of Alabama
+719,Best Contemporary Soul Gospel Album,2003,Gospel/Contemporary Christian Music,...Again,Donnie McClurkin
+720,Best Gospel Choir Or Chorus Album,2003,Gospel/Contemporary Christian Music,A Wing And A Prayer,Bishop T.D. Jakes & The Potter's House Mass Choir
+721,Best Latin Pop Album,2003,Latin,No Es Lo Mismo,Alejandro Sanz
+722,Best Latin Rock/Alternative Album,2003,Latin,Cuatro Caminos,
+723,Best Traditional Tropical Latin Album,2003,Latin,Buenos Hermanos,Ibrahim Ferrer
+724,Best Salsa/Merengue Album,2003,Latin,Regalo Del Alma,Celia Cruz
+725,Best Mexican/Mexican-American Album,2003,Latin,Afortunado,Joan Sebastian
+726,Best Tejano Album,2003,Latin,Si Me Faltas Tu,Jimmy Gonzalez y El Grupo Mazz
+727,Best Traditional Blues Album,2003,American Roots Music,Blues Singer,Buddy Guy
+728,Best Contemporary Blues Album,2003,American Roots Music,Let's Roll,Etta James
+729,Best Traditional Folk Album,2003,American Roots Music,Wildwood Flower,June Carter Cash
+730,Best Contemporary Folk Album,2003,American Roots Music,The Wind,Warren Zevon
+731,Best Native American Music Album,2003,American Roots Music,Flying Free,Black Eagle
+732,Best Reggae Album,2003,Reggae,Dutty Rock,Sean Paul
+733,Best Traditional World Music Album,2003,World Music,Sacred Tibetan Chant,Monks Of Sherab Ling Monastery
+734,Best Contemporary World Music Album,2003,World Music,Voz D'Amor,Cesaria Evora
+735,Best Polka Album,2003,Polka,Let's Polka 'Round,Jimmy Sturr
+736,Best Musical Album For Children,2003,Children's,Bon Appétit!,Cathy Fink
+737,Best Spoken Word Album For Children,2003,Children's,Prokofiev: Peter And The Wolf/Beintus: Wolf Tracks,Wilhelm Hellweg
+738,Best Spoken Word Album,2003,Spoken Word,Lies And The Lying Liars Who Tell Them: A Fair And Balanced Look At The Right (Al Franken),Al Franken
+739,Best Comedy Album,2003,Comedy,Poodle Hat,Weird Al Yankovic
+740,Best Musical Show Album,2003,Musical Theater,Gypsy,"New Broadway Cast With Bernadette Peters, Tammy Blanchard, John Dossett & Others"
+741,"Best Compilation Soundtrack Album For A Motion Picture, Television Or Other Visual Media",2003,Music for Visual Media,Chicago,Randy Spendlove
+742,"Best Score Soundtrack Album For A Motion Picture, Television Or Other Visual Media",2003,Composing/Arranging,The Lord Of The Rings - The Two Towers,Howard Shore
+743,Best Album Notes,2003,Notes,Martin Scorsese Presents The Blues: A Musical Journey,Various Artists
+744,Best Historical Album,2003,Historical,Martin Scorsese Presents The Blues: A Musical Journey,Various Artists
+745,"Best Engineered Album, Non-Classical",2003,"Production, Non-Classical",Hail To The Thief,Radiohead
+746,"Best Engineered Album, Classical",2003,"Production, Classical",Obrigado Brazil,Yo-Yo Ma
+747,Best Classical Album,2003,Classical,Mahler: Symphony No. 3; Kindertotenlieder,Michael Tilson Thomas
+748,Best Classical Crossover Album,2003,Classical,Obrigado Brazil,Yo-Yo Ma
+749,Album Of The Year,2002,General,Come Away With Me,Norah Jones
+750,Best Pop Instrumental Album,2002,Pop,Just Chillin',Norman Brown
+751,Best Pop Vocal Album,2002,Pop,Come Away With Me,Norah Jones
+752,Best Traditional Pop Vocal Album,2002,Traditional Pop,Playin' With My Friends - Bennett Sings The Blues,Tony Bennett
+753,Best Rock Album,2002,Rock,The Rising,Bruce Springsteen
+754,Best Alternative Music Album,2002,Alternative,A Rush Of Blood To The Head,Coldplay
+755,Best R&B Album,2002,R&B,Voyage To India,India.Arie
+756,Best Contemporary R&B Album,2002,R&B,Ashanti,Ashanti
+757,Best Rap Album,2002,Rap,The Eminem Show,Eminem
+758,Best Country Album,2002,Country,Home,Dixie Chicks
+759,Best Bluegrass Album,2002,American Roots Music,Lost In The Lonesome Pines,Jim Lauderdale
+760,Best New Age Album,2002,New Age,Acoustic Garden,Eric Tingstad
+761,Best Contemporary Jazz Album,2002,Jazz,Speaking Of Now,Pat Metheny Group
+762,Best Jazz Vocal Album,2002,Jazz,Live In Paris,Diana Krall
+763,"Best Jazz Instrumental Album, Individual or Group",2002,Jazz,Directions In Music,Herbie Hancock
+764,Best Large Jazz Ensemble Album,2002,Jazz,What Goes Around,Dave Holland
+765,Best Latin Jazz Album,2002,Jazz,The Gathering,Caribbean Jazz Project
+766,Best Rock Gospel Album,2002,Gospel/Contemporary Christian Music,Come Together,Third Day
+767,Best Pop/Contemporary Gospel Album,2002,Gospel/Contemporary Christian Music,The Eleventh Hour,Jars Of Clay
+768,"Best Southern, Country, or Bluegrass Gospel Album",2002,Gospel/Contemporary Christian Music,We Called Him Mr. Gospel Music - The James Blackwood Tribute Album,Jordanaires
+769,Best Traditional Soul Gospel Album,2002,Gospel/Contemporary Christian Music,Higher Ground,Blind Boys Of Alabama
+770,Best Contemporary Soul Gospel Album,2002,Gospel/Contemporary Christian Music,Sidebars,Eartha
+771,Best Gospel Choir Or Chorus Album,2002,Gospel/Contemporary Christian Music,Be Glad,The Brooklyn Tabernacle Choir
+772,Best Latin Pop Album,2002,Latin,Caraluna,Bacilos
+773,Best Latin Rock/Alternative Album,2002,Latin,Revolución De Amor,
+774,Best Traditional Tropical Latin Album,2002,Latin,El Arte Del Sabor,Bebo Valdés Trio
+775,Best Salsa Album,2002,Latin,La Negra Tiene Tumbao,Celia Cruz
+776,Best Merengue Album,2002,Latin,Latino,Grupo Mania
+777,Best Mexican/Mexican-American Album,2002,Latin,Lo Dijo El Corazón,Joan Sebastian
+778,Best Tejano Album,2002,Latin,Acuérdate,Emilio Navaira
+779,Best Traditional Blues Album,2002,American Roots Music,A Christmas Celebration Of Hope,B.B. King
+780,Best Contemporary Blues Album,2002,American Roots Music,Don't Give Up On Me,Solomon Burke
+781,Best Traditional Folk Album,2002,American Roots Music,Legacy,Doc Watson
+782,Best Contemporary Folk Album,2002,American Roots Music,This Side,Nickel Creek
+783,Best Native American Music Album,2002,American Roots Music,Beneath The Raven Moon,Mary Youngblood
+784,Best Reggae Album,2002,Reggae,Jamaican E.T.,"Lee ""Scratch"" Perry"
+785,Best World Music Album,2002,World Music,Mundo,Rubén Blades
+786,Best Polka Album,2002,Polka,Top Of The World,Jimmy Sturr
+787,Best Musical Album For Children,2002,Children's,"Monsters, Inc. - Scream Factory Favorites",Riders In The Sky
+788,Best Spoken Word Album For Children,2002,Children's,There Was An Old Lady Who Swallowed A Fly,Tom Chapin
+789,Best Spoken Word Album,2002,Spoken Word,A Song Flung Up To Heaven,Maya Angelou
+790,Best Spoken Comedy Album,2002,Spoken Word,Robin Williams - Live 2002,
+791,Best Musical Show Album,2002,Musical Theater,Hairspray,Original Broadway Cast - Marissa Jaret Winokur & Harvey Fierstein
+792,"Best Compilation Soundtrack Album For A Motion Picture, Television Or Other Visual Media",2002,Music for Visual Media,Standing In The Shadows Of Motown,Ted Greenberg
+793,"Best Score Soundtrack Album For A Motion Picture, Television Or Other Visual Media",2002,Composing/Arranging,The Lord Of The Rings - The Fellowship Of The Ring,Howard Shore
+794,Best Album Notes,2002,Notes,Screamin' And Hollerin' The Blues - The Worlds Of Charley Patton,Charley Patton
+795,Best Historical Album,2002,Historical,Screamin' And Hollerin' The Blues - The Worlds Of Charley Patton,Charley Patton
+796,"Best Engineered Album, Non-Classical",2002,"Production, Non-Classical",Come Away With Me,Norah Jones
+797,"Best Engineered Album, Classical",2002,"Production, Classical",Vaughan Williams: A Sea Symphony (Sym. No. 1),Robert Spano & Norman Mackenzie
+798,Best Classical Album,2002,Classical,Vaughan Williams: A Sea Symphony (Sym. No. 1),Robert Spano
+799,Best Classical Crossover Album,2002,Classical,"Previn Conducts Korngold - The Sea Hawk, Captain Blood, etc.",André Previn
+800,Album Of The Year,2001,General,"O Brother, Where Art Thou? - Soundtrack",T Bone Burnett
+801,Best Pop Instrumental Album,2001,Pop,No Substitutions - Live In Osaka,
+802,Best Pop Vocal Album,2001,Pop,Lovers Rock,Sade
+803,Best Traditional Pop Vocal Album,2001,Traditional Pop,Songs I Heard,
+804,Best Rock Album,2001,Rock,All That You Can't Leave Behind,U2
+805,Best Alternative Music Album,2001,Alternative,Parachutes,Coldplay
+806,Best R&B Album,2001,R&B,Songs In A Minor,Alicia Keys
+807,Best Traditional R&B Vocal Album,2001,R&B,At Last,Gladys Knight
+808,Best Rap Album,2001,Rap,Stankonia,OutKast
+809,Best Country Album,2001,Country,Timeless - Hank Williams Tribute,Various Artists
+810,Best Bluegrass Album,2001,American Roots Music,New Favorite,Alison Krauss & Union Station
+811,Best New Age Album,2001,New Age,A Day Without Rain,Enya
+812,Best Contemporary Jazz Album,2001,Jazz,M²,Marcus Miller
+813,Best Jazz Vocal Album,2001,Jazz,The Calling,Dianne Reeves
+814,"Best Jazz Instrumental Album, Individual or Group",2001,Jazz,This Is What I Do,Sonny Rollins
+815,Best Large Jazz Ensemble Album,2001,Jazz,Homage To Count Basie,Bob Mintzer Big Band
+816,Best Latin Jazz Album,2001,Jazz,Nocturne,Charlie Haden
+817,Best Rock Gospel Album,2001,Gospel/Contemporary Christian Music,Solo,dc Talk
+818,Best Pop/Contemporary Gospel Album,2001,Gospel/Contemporary Christian Music,CeCe Winans,CeCe Winans
+819,"Best Southern, Country, or Bluegrass Gospel Album",2001,Gospel/Contemporary Christian Music,Bill & Gloria Gaither Present A Billy Graham Music Homecoming,
+820,Best Traditional Soul Gospel Album,2001,Gospel/Contemporary Christian Music,Spirit Of The Century,Blind Boys Of Alabama
+821,Best Contemporary Soul Gospel Album,2001,Gospel/Contemporary Christian Music,The Experience,Yolanda Adams
+822,Best Gospel Choir Or Chorus Album,2001,Gospel/Contemporary Christian Music,Love Is Live!,Hezekiah Walker & LFT Church Choir
+823,Best Latin Pop Album,2001,Latin,La Musica De Baldemar Huerta,Freddy Fender
+824,Best Latin Rock/Alternative Album,2001,Latin,Embrace The Chaos,Ozomatli
+825,Best Traditional Tropical Latin Album,2001,Latin,Dejame Entrar,Carlos Vives
+826,Best Salsa Album,2001,Latin,Encore,Roberto Blades
+827,Best Merengue Album,2001,Latin,Yo Por Tí,Olga Tañón
+828,Best Mexican/Mexican-American Album,2001,Latin,En Vivo...El Hombre Y Su Musica,Ramón Ayala y Sus Bravos Del Norte
+829,Best Tejano Album,2001,Latin,Nadie Como Tu,Solido
+830,Best Traditional Blues Album,2001,American Roots Music,Do You Get The Blues?,Jimmie Vaughan
+831,Best Contemporary Blues Album,2001,American Roots Music,Nothing Personal,Delbert McClinton
+832,Best Traditional Folk Album,2001,American Roots Music,Down From The Mountain,Mike Piersante
+833,Best Contemporary Folk Album,2001,American Roots Music,Love And Theft,Bob Dylan
+834,Best Native American Music Album,2001,American Roots Music,Bless The People - Harmonized Peyote Songs,Verdell Primeaux
+835,Best Reggae Album,2001,Reggae,Halfway Tree,Damian Marley
+836,Best World Music Album,2001,World Music,Full Circle - Carnegie Hall 2000,Ravi Shankar
+837,Best Polka Album,2001,Polka,Gone Polka,Jimmy Sturr
+838,Best Musical Album For Children,2001,Children's,Elmo And The Orchestra,Sesame Street Characters
+839,Best Spoken Word Album for Children,2001,Children's,Mama Don't Allow,Tom Chapin
+840,Best Spoken Word Album,2001,Spoken Word,Q - The Autobiography Of Quincy Jones,Quincy Jones
+841,Best Spoken Comedy Album,2001,Spoken Word,Napalm & Sillyputty,
+842,Best Musical Show Album,2001,Musical Theater,The Producers,Original Broadway Cast With Nathan Lane & Matthew Broderick
+843,"Best Compilation Soundtrack Album For A Motion Picture, Television Or Other Visual Media",2001,Music for Visual Media,"O Brother, Where Art Thou?",T Bone Burnett
+844,"Best Score Soundtrack Album For A Motion Picture, Television Or Other Visual Media",2001,Composing/Arranging,"Crouching Tiger, Hidden Dragon",Tan Dun
+845,Best Album Notes,2001,Notes,Arhoolie Records 40th Anniversary Collection - 1960-2000 The Journey Of Chris Strachwitz,Various Artists
+846,Best Historical Album,2001,Historical,Lady Day - The Complete Billie Holiday On Columbia 1933-1944,Billie Holiday
+847,"Best Engineered Album, Non-Classical",2001,"Production, Non-Classical",The Look Of Love,Diana Krall
+848,"Best Engineered Album, Classical",2001,"Production, Classical","Bernstein (Arr. Brohn & Corigliano): West Side Story Suite (Lonely Town; Make Our Garden Grow, Etc.)",Joshua Bell
+849,Best Classical Album,2001,Classical,Berlioz: Les Troyens,Colin Davis
+850,Best Classical Crossover Album,2001,Classical,"Perpetual Motion - Scarlatti, Bach, Debussy, Chopin",Béla Fleck
+851,Album Of The Year,2000,General,Two Against Nature,Steely Dan
+852,Best Pop Instrumental Album,2000,Pop,Symphony No. 1,Joe Jackson
+853,Best Pop Vocal Album,2000,Pop,Two Against Nature,Steely Dan
+854,Best Traditional Pop Vocal Album,2000,Traditional Pop,Both Sides Now,Joni Mitchell
+855,Best Rock Album,2000,Rock,There Is Nothing Left To Lose,Foo Fighters
+856,Best Alternative Music Album,2000,Alternative,Kid A,Radiohead
+857,Best R&B Album,2000,R&B,Voodoo,D'Angelo
+858,Best Traditional R&B Vocal Album,2000,R&B,Ear-Resistible,The Temptations
+859,Best Rap Album,2000,Rap,The Marshall Mathers LP,Eminem
+860,Best Country Album,2000,Country,Breathe,Faith Hill
+861,Best Bluegrass Album,2000,American Roots Music,The Grass Is Blue,Dolly Parton
+862,Best New Age Album,2000,New Age,Thinking Of You,Kitaro
+863,Best Contemporary Jazz Album,2000,Jazz,Outbound,Béla Fleck
+864,Best Jazz Vocal Album,2000,Jazz,In The Moment - Live In Concert,Dianne Reeves
+865,"Best Jazz Instrumental Album, Individual or Group",2000,Jazz,Contemporary Jazz,Branford Marsalis Quartet
+866,Best Large Jazz Ensemble Album,2000,Jazz,52nd Street Themes,Joe Lovano
+867,Best Latin Jazz Album,2000,Jazz,Live At The Village Vanguard,Chucho Valdés
+868,Best Rock Gospel Album,2000,Gospel/Contemporary Christian Music,Double Take,Petra
+869,Best Pop/Contemporary Gospel Album,2000,Gospel/Contemporary Christian Music,If I Left The Zoo,Jars Of Clay
+870,"Best Southern, Country, or Bluegrass Gospel Album",2000,Gospel/Contemporary Christian Music,Soldier Of The Cross,Ricky Skaggs
+871,Best Traditional Soul Gospel Album,2000,Gospel/Contemporary Christian Music,You Can Make It,Shirley Caesar
+872,Best Contemporary Soul Gospel Album,2000,Gospel/Contemporary Christian Music,Thankful,Mary Mary
+873,Best Gospel Choir Or Chorus Album,2000,Gospel/Contemporary Christian Music,Live - God Is Working,The Brooklyn Tabernacle Choir
+874,Best Latin Pop Album,2000,Latin,Shakira - MTV Unplugged,Shakira
+875,Best Latin Rock/Alternative Album,2000,Latin,Uno,La Ley
+876,Best Traditional Tropical Latin Album,2000,Latin,Alma Caribeña,Gloria Estefan
+877,Best Salsa Album,2000,Latin,Masterpiece/Obra Maestra,Tito Puente
+878,Best Merengue Album,2000,Latin,"Olga Viva, Viva Olga",Olga Tañón
+879,Best Mexican/Mexican-American Album,2000,Latin,Por Una Mujer Bonita,Pepe Aguilar
+880,Best Tejano Album,2000,Latin,¿Qué Es Música Tejana?,The Legends
+881,Best Traditional Blues Album,2000,American Roots Music,Riding With The King,B.B. King
+882,Best Contemporary Blues Album,2000,American Roots Music,Shoutin’ In Key,Taj Mahal & The Phantom Blues Band
+883,Best Traditional Folk Album,2000,American Roots Music,Public Domain - Songs From The Wild Land,Dave Alvin
+884,Best Contemporary Folk Album,2000,American Roots Music,Red Dirt Girl,Emmylou Harris
+885,Best Native American Music Album,2000,American Roots Music,Gathering Of Nations Pow Wow,Tom Bee
+886,Best Reggae Album,2000,Reggae,Art And Life,Beenie Man
+887,Best World Music Album,2000,World Music,João Voz E Violão,João Gilberto
+888,Best Polka Album,2000,Polka,Touched By A Polka,Jimmy Sturr
+889,Best Musical Album For Children,2000,Children's,Woody's Roundup Featuring Riders In The Sky,Riders In The Sky
+890,Best Spoken Word Album for Children,2000,Children's,Harry Potter And The Goblet Of Fire,Jim Dale
+891,Best Spoken Word Album,2000,Spoken Word,The Measure Of A Man,Sidney Poitier
+892,Best Spoken Comedy Album,2000,Spoken Word,Braindroppings,
+893,Best Musical Show Album,2000,Musical Theater,Elton John & Tim Rice's Aida,Original Broadway Cast
+894,"Best Compilation Soundtrack Album For A Motion Picture, Television Or Other Visual Media",2000,Music for Visual Media,Almost Famous,Danny Bramson
+895,"Best Score Soundtrack Album For A Motion Picture, Television Or Other Visual Media",2000,Composing/Arranging,American Beauty,Thomas Newman
+896,Best Album Notes,2000,Notes,Miles Davis & John Coltrane - The Complete Columbia Recordings 1955-1961,Miles Davis & John Coltrane
+897,Best Historical Album,2000,Historical,Louis Armstrong - The Complete Hot Five & Hot Seven Recordings,Louis Armstrong
+898,"Best Engineered Album, Non-Classical",2000,"Production, Non-Classical",Two Against Nature,Steely Dan
+899,"Best Engineered Album, Classical",2000,"Production, Classical","Dvorák: Requiem, Op. 89; Sym. No. 9, Op. 95 ""From the New World""",Zdenek Macal
+900,Best Classical Album,2000,Classical,Shostakovich: The String Quartets,"Eugene Drucker, Lawrence Dutton, David Finckel & Philip Setzer"
+901,Best Classical Crossover Album,2000,Classical,Appalachian Journey,Yo-Yo Ma
+902,Album Of The Year,1999,General,Supernatural,Santana
+903,Best Pop Album,1999,Pop,Brand New Day,Sting
+904,Best Rock Album,1999,Rock,Supernatural,Santana
+905,Best R&B Album,1999,R&B,Fanmail,TLC
+906,Best Rap Album,1999,Rap,The Slim Shady LP,Eminem
+907,Best Country Album,1999,Country,Fly,Dixie Chicks
+908,Best Bluegrass Album,1999,American Roots Music,Ancient Tones,Ricky Skaggs
+909,Best New Age Album,1999,New Age,Celtic Solstice,Paul Winter
+910,Best Rock Gospel Album,1999,Gospel/Contemporary Christian Music,Pray,Rebecca St. James
+911,Best Pop/Contemporary Gospel Album,1999,Gospel/Contemporary Christian Music,Speechless,Steven Curtis Chapman
+912,"Best Southern, Country, Or Bluegrass Gospel Album",1999,Gospel/Contemporary Christian Music,Kennedy Center Homecoming,Gloria Gaither
+913,Best Traditional Soul Gospel Album,1999,Gospel/Contemporary Christian Music,Christmas With Shirley Caesar,Shirley Caesar
+914,Best Contemporary Soul Gospel Album,1999,Gospel/Contemporary Christian Music,Mountain High...Valley Low,Yolanda Adams
+915,Best Gospel Choir Or Chorus Album,1999,Gospel/Contemporary Christian Music,High And Lifted Up,The Brooklyn Tabernacle Choir
+916,Best Traditional Blues Album,1999,American Roots Music,Blues On The Bayou,B.B. King
+917,Best Contemporary Blues Album,1999,American Roots Music,Take Your Shoes Off,Robert Cray Band
+918,Best Traditional Folk Album,1999,American Roots Music,Press On,June Carter Cash
+919,Best Contemporary Folk Album,1999,American Roots Music,Mule Variations,Tom Waits
+920,Best Reggae Album,1999,Reggae,Calling Rastafari,Burning Spear
+921,Best World Music Album,1999,World Music,Livro,Caetano Veloso
+922,Best Polka Album,1999,Polka,Polkasonic,Brave Combo
+923,Best Musical Album For Children,1999,Children's,The Adventures Of Elmo In Grouchland,Various Artists
+924,Best Spoken Word Album For Children,1999,Children's,Listen To The Storyteller,Wynton Marsalis
+925,Best Spoken Word Album,1999,Spoken Word,"The Autobiography Of Martin Luther King, Jr.",LeVar Burton
+926,Best Spoken Comedy Album,1999,Spoken Word,Bigger And Blacker,
+927,Best Musical Show Album,1999,Musical Theater,Annie Get Your Gun,The New Broadway Cast Including Bernadette Peters & Tom Wopat
+928,Best Soundtrack Album,1999,Music for Visual Media,Tarzan,Phil Collins
+929,Best Album Notes,1999,Notes,John Coltrane - The Classic Quartet: Complete Impulse! Studio Recordings,John Coltrane
+930,Best Historical Album,1999,Historical,The Duke Ellington Centennial Edition - The Complete RCA Victor Recordings (1927-1973),Duke Ellington
+931,Best Engineered Album - Non-Classical,1999,"Production, Non-Classical",When I Look In Your Eyes,Diana Krall
+932,"Best Engineered Album, Classical",1999,"Production, Classical",Stravinsky: Firebird; The Rite Of Spring; Perséphone,"Michael Tilson Thomas, conductor"
+933,Best Classical Album,1999,Classical,Stravinsky: Firebird; The Rite Of Spring; Perséphone,Michael Tilson Thomas
+934,Best Classical Crossover Album,1999,Classical,"Schickele: Hornsmoke (Piano Concerto No. 2 In F Major ""Ole""; Brass Calendar; Hornsmoke - A Horse Opera)",Peter Schickele
