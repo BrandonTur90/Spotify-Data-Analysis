@@ -12,7 +12,7 @@ The first Grammy Award ceremony was held on may 4th, 1959 in Beverly Hills, Cali
 ![spotify](https://user-images.githubusercontent.com/89357104/147999820-7eac0382-2b34-476b-818e-85ff8c85c78f.jpeg)
 
 Spotify, a media services provider founded on 23 April 2006, it the world's largest music streaming service provider, with over 381 million monthly active users, 
-including 172 million paying subscribers, as of September 2021
+including 172 million paying subscribers, as of September 2021.
 
 ## Goal
 We're interested in the relationship between a song's popularity on Spotify, specifically how well it performs on the Weekly Top 200, and the tendency
