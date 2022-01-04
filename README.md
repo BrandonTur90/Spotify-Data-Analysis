@@ -23,3 +23,4 @@ Spotify, a media services provider founded on 23 April 2006, it the world's larg
 We want to see which feature(s) from these datasets (Billboard and Spotify) have better predictive properties at determining a Grammy win.
 
 ## Presentation
+* Presentation Document: [Google Slide Presentation](https://docs.google.com/presentation/d/1kofNapJf18HnhgTNp6hX8VxUg7Z1qYCCVxNfF793xiA/edit#slide=id.g723630543_3_0)
