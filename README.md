@@ -1,27 +1,30 @@
-# Grammy Winning Albums Data Analysis
+
+# Spotify Data Analysis
 
 ## Overview
 
-
-![grammy](https://user-images.githubusercontent.com/89357104/147999701-7bff0808-24c4-4b3f-bc69-c5eb029b7c14.jpeg)
-
-The Grammy Award, is an award presented by the US Recording Academy to recognize "Outstanding Achievement in the music industry" of the United States. 
-The first Grammy Award ceremony was held on may 4th, 1959 in Beverly Hills, California. And the 64th will be held on January 31st, 2022.
-
-
 ![spotify](https://user-images.githubusercontent.com/89357104/147999820-7eac0382-2b34-476b-818e-85ff8c85c78f.jpeg)
 
-Spotify, a media services provider founded on 23 April 2006, it the world's largest music streaming service provider, with over 381 million monthly active users, 
-including 172 million paying subscribers, as of September 2021.
+The music business has gone through several technology driven shakeups over the past 30 years. The days of ranking songs based on how well
+an album or single sold, or how often it was requested on your local radio station is long gone. Music production has vastly changed too, 
+with at home recording cheaper than ever, bringing studio level production to people's bedrooms, and social media acting as a primary source
+of marketing, artists don't need to sign up for a label to get their music out to listeners. 
+
+Streaming platforms are largely how music is listened to today. Spotify is a Swedish based media streaming platform, founded on 23 April 2006. 
+It is the world's largest music streaming service provider, with over 381 million monthly active users, including 172 million paying subscribers, 
+as of September 2021. Spotify streams internationally in over 180 countries as of October 2021. Platforms like Spotify allow almost anyone with 
+a musical project to upload their art for everyone in the world to listen to. With so many users, artists, or even single songs, can rack up 
+millions, even billions of listens, and Spotify keeps count of each one of them.
 
 ## Goal
-We're interested in the relationship between a song's popularity on Spotify, specifically how well it performs on the Weekly Top 200, and the tendency
-of that song to win a Grammy for any category.
+But what makes a song a hit? It's a question many musicians have asked over the years. Using the dataset below we're hoping to share
+some insight by exploring Spotify steaming data from 2016 to 2018.
 
 
 ## Data Source
-We'll be preforming our analysis, and answering our questions using this [Dataset](https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019)
-from Kaggle. Specifically the Spotify Top 200 Weekly dataset, and the Grammy Songs dataset.
+We'll be preforming our analysis, and answering our questions using these datasets, [Spotify's Worldwide Daily Song Ranking](https://www.kaggle.com/edumucelli/spotifys-worldwide-daily-song-ranking/data), and [Spotify Tracks DB](https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db?select=SpotifyFeatures.csv) from Kaggle. 
+We'll be looking at the features from the Spotify Tracks DB, such as track duration, energy, danceabilityand more, while comparing and contrasting 
+to Spotify's Worldwide Daily Song Ranking stream count. We're expecting to find some predictive quality between at least one feature and total streams.
 
 
 ## Presentation 
