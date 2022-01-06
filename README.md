@@ -30,7 +30,13 @@ We'll be looking at the features from the Spotify Tracks DB, such as track durat
 to Spotify's Worldwide Daily Song Ranking stream count. We're expecting to find some predictive quality between at least one feature and total streams.
 
 ## Software Used
-
+  * Database
+  *
+  * Machine Learning 
+  * 
+  * Analyzing Data
+  * 
+  * 
 
 ## Presentation 
 
