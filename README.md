@@ -46,7 +46,7 @@ to Spotify's Worldwide Daily Song Ranking stream count. We're expecting to find 
 ## Work as a Team
 
 Eventhough our goal as a team is to collaborate and help each other on the different tasks, we separated our role as:
-* Square: Brandon will be responsible for the respiratory
-* Triangle: Tobi will create a mockup of a machine learning model.
-* Circle: Roxhensa will create a mockup of a database with a set of sample data, or even fabricated data
-* X: Shantal will decide which technologies will be used for each step of the project and she is woring on the Jupiter Notebook and cleaning the data.
+* Square: [Brandon Turner](https://github.com/BrandonTur90) will be responsible for the respiratory
+* Triangle: [Oluwatobiloba Oduntan](https://github.com/Tobi1018) will create a mockup of a machine learning model.
+* Circle: [Roxhensa Kardhiqi](https://github.com/roxhensa02) will create a mockup of a database with a set of sample data, or even fabricated data
+* X: [Shantal Jambotkar](https://github.com/shantaljambotkar) will decide which technologies will be used for each step of the project and she is woring on the Jupiter Notebook and cleaning the data.
