@@ -31,6 +31,7 @@ to Spotify's Worldwide Daily Song Ranking stream count. We're expecting to find 
 
 ## Software Used
   * Database
+     * CSV.
   *
   * Machine Learning 
   * 
