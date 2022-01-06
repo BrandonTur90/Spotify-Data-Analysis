@@ -45,7 +45,7 @@ to Spotify's Worldwide Daily Song Ranking stream count. We're expecting to find 
 
 ## Work as a Team
 
-Even though our goal as a team is to collaborate and help each other on the tasks, we separated our role as:
+Eventhough our goal as a team is to collaborate and help each other on the different tasks, we separated our role as:
 * Square: Brandon will be responsible for the respiratory
 * Triangle: Tobi will create a mockup of a machine learning model.
 * Circle: Roxhensa will create a mockup of a database with a set of sample data, or even fabricated data
