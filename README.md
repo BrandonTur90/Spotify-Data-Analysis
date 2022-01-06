@@ -1,6 +1,9 @@
 
 # Spotify Data Analysis
 
+
+
+
 ## Overview
 
 ![spotify](https://user-images.githubusercontent.com/89357104/147999820-7eac0382-2b34-476b-818e-85ff8c85c78f.jpeg)
@@ -21,10 +24,12 @@ But what makes a song a hit? It's a question many musicians have asked over the 
 some insight by exploring Spotify steaming data from 2016 to 2018.
 
 
-## Data Source
+## Description of Data Source
 We'll be preforming our analysis, and answering our questions using these datasets, [Spotify's Worldwide Daily Song Ranking](https://www.kaggle.com/edumucelli/spotifys-worldwide-daily-song-ranking/data), and [Spotify Tracks DB](https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db?select=SpotifyFeatures.csv) from Kaggle. 
 We'll be looking at the features from the Spotify Tracks DB, such as track duration, energy, danceabilityand more, while comparing and contrasting 
 to Spotify's Worldwide Daily Song Ranking stream count. We're expecting to find some predictive quality between at least one feature and total streams.
+
+## Software Used
 
 
 ## Presentation 
