@@ -1,4 +1,9 @@
 
+# Grammy-Data-Analysis
+
+## Machine Learning Model
+
+
 # Spotify Data Analysis
 
 
@@ -29,6 +34,8 @@ We'll be preforming our analysis, and answering our questions using these datase
 We'll be looking at the features from the Spotify Tracks DB, such as track duration, energy, danceabilityand more, while comparing and contrasting 
 to Spotify's Worldwide Daily Song Ranking stream count. We're expecting to find some predictive quality between at least one feature and total streams.
 
+
+
 ## Software Used
   * Database
      * 
@@ -55,3 +62,4 @@ Eventhough our goal as a team is to collaborate and help each other on the diffe
 * Triangle: [Oluwatobiloba Oduntan](https://github.com/Tobi1018) will create a mockup of a machine learning model.
 * Circle: [Roxhensa Kardhiqi](https://github.com/roxhensa02) will create a mockup of a database with a set of sample data, or even fabricated data
 * X: [Shantal Jambotkar](https://github.com/shantaljambotkar) will decide which technologies will be used for each step of the project and she is working on the Jupiter Notebook and cleaning the data.
+
