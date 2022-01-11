@@ -21,7 +21,7 @@ millions, even billions of listens, and Spotify keeps count of each one of them.
 
 ## Goal
 But what makes a song a hit? It's a question many musicians have asked over the years. Using the dataset below we're hoping to share
-some insight by exploring Spotify steaming data from 2016 to 2018.
+some insight by exploring Spotify streaming data from 2016 to 2018.
 
 
 ## Description of Data Source
