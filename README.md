@@ -44,6 +44,16 @@ to Spotify's Worldwide Daily Song Ranking stream count. We're expecting to find 
 
 ## Machine Learning Model
 
+In our project, as a supervised machine learning model we will use Logistics Regression. Logistics regression is a classification model. With this model, we will try to answer the questions such as whether a song will be popular or no based on the song’s features. Our model predicts binary outcomes, whether a song is popular or no based on multiple variables such as acousticnes, danceability, duration_ms, energy, instrumentalnes, liveness, loudness	, mode, speechiness, tempo, valence.
+
+We will split the data into two: train and test datasets. The model will use the training dataset to learn from it. And as it learns, will use the testing dataset to assess its performance. Since we do not know how well the model will perform the unseen data, we will not use the entire dataset. That is why we will set aside a portion.
+
+We will assign the variable X to input variables, and use the to predict y, the output. The features (X) will be acousticnes, danceability, duration_ms, energy, instrumentalnes, liveness, loudness, mode, speechiness, tempo, valence and the target will be the column outcome, where 1- represents a popular song and 0-not popular.
+After determining the X, y, we will split the dataset into training and testing sets: X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1, stratify=y)
+As we train the model with the training data, we will create predictions for y-values, by using the testing X values (X_test).
+As we finish predicting the y values with the logistics regression model, we will determine the accuracy of the model, and then we will decide if any further model will be used to achieve a better accuracy.
+
+
 ## Presentation 
 
 * Presentation Document: [Google Slide Presentation](https://docs.google.com/presentation/d/1kofNapJf18HnhgTNp6hX8VxUg7Z1qYCCVxNfF793xiA/edit#slide=id.g723630543_3_0)
