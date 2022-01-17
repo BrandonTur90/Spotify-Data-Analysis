@@ -53,12 +53,12 @@ After determining the X, y, we will split the dataset into training and testing 
 As we train the model with the training data, we will create predictions for y-values by using the testing X values (X_test).
 As we finish predicting the y values with the logistics regression model, we will determine the accuracy of the model, and then we will decide if any further models will be used to achieve better accuracy.
 
-* Advantages
+* ## Advantages
   - Logistics regression is one of the simplest machine learning algorithms and performs great training effieciency is some cases.
   - The prdicted parameters give inference about the importance of each feature.
   - This model gives well-calibrated probabilities outputs along with the classification results.
 
-* Disadvantages
+* ## Disadvantages
   - As logistics regression predicts probabilistic outcomes based on independent features on large datasets, this will lead to overfitting. Thus, the model and the training data may not be able to predict the test results accurately.
   - If the data is not linearly separable in higher dimensions, it requires the transformation of nonlinear features by increasing the number of features. This is      required since non-linear problems cannot be solved.
   - Complex relationships are difficult to capture.
