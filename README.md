@@ -6,7 +6,7 @@
 
 ![spotify](https://user-images.githubusercontent.com/89357104/147999820-7eac0382-2b34-476b-818e-85ff8c85c78f.jpeg)
 
-The music business has gone through several technology driven shakeups over the past 30 years. The days of ranking songs based on how well
+The music business has gone through, several technology driven shakeups over the past 30 years. The days of ranking songs based on how well
 an album or single sold, or how often it was requested on your local radio station is long gone. Music production has vastly changed too, 
 with at home recording cheaper than ever, bringing studio level production to people's bedrooms, and social media acting as a primary source
 of marketing, artists don't need to sign up for a label to get their music out to listeners. 
