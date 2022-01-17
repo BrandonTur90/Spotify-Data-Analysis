@@ -35,7 +35,7 @@ to Spotify's Worldwide Daily Song Ranking stream count. We're expecting to find 
   *
   * Machine Learning 
     * Logistics Regression
-    * Linear Regression
+    
   * Analyzing Data
     * Pandas 
     * Numpy 
