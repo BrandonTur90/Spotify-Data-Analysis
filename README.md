@@ -60,7 +60,7 @@ As we finish predicting the y values with the logistics regression model, we wil
 
 * Disadvantages
   - As logistics regression predicts probabilistic outcomes based on independent features on large datasets, this will lead to overfitting. Thus, the model and the training data may not be able to predict the test results accurately.
- - If the data is not linearly separable in higher dimensions, it requires the transformation of nonlinear features by increasing the number of features. This is required since non-linear problems cannot be solved.
+  - If the data is not linearly separable in higher dimensions, it requires the transformation of nonlinear features by increasing the number of features. This is      required since non-linear problems cannot be solved.
   - Complex relationships are difficult to capture.
 
 
