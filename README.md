@@ -53,6 +53,13 @@ After determining the X, y, we will split the dataset into training and testing 
 As we train the model with the training data, we will create predictions for y-values, by using the testing X values (X_test).
 As we finish predicting the y values with the logistics regression model, we will determine the accuracy of the model, and then we will decide if any further model will be used to achieve a better accuracy.
 
+* Advantages
+  - Logistics regression is one of the simplest machine learning algorithms and performs great training effieciency is some cases.
+  - The prdicted parameters give inference about the importance of each feature.
+  - This model gives well-calibrated probabilities outputs along with the classification results.
+
+
+
 
 ## Presentation 
 
