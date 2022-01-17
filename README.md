@@ -44,14 +44,14 @@ to Spotify's Worldwide Daily Song Ranking stream count. We're expecting to find 
 
 ## Machine Learning Model
 
-In our project, as a supervised machine learning model we will use Logistics Regression. Logistics regression is a classification model. With this model, we will try to answer the questions such as whether a song will be popular or no based on the song’s features. Our model predicts binary outcomes, whether a song is popular or no based on multiple variables such as acousticnes, danceability, duration_ms, energy, instrumentalnes, liveness, loudness	, mode, speechiness, tempo, valence.
+For our project, we are going to use Logistics Regression as a supervised machine learning model. Logistics regression uses classification as a method. Using this model, we will be able to predict whether a song will be popular based on its features. Based on multiple factors, our model predicts whether a song will be popular or not, including acoustics, danceability, duration_ms, energy, instrumentals, liveness, loudness, mode, speech, tempo, and valence.
 
-We will split the data into two: train and test datasets. The model will use the training dataset to learn from it. And as it learns, will use the testing dataset to assess its performance. Since we do not know how well the model will perform the unseen data, we will not use the entire dataset. That is why we will set aside a portion.
+Two sets of data will be created: a train dataset and a test dataset. Based on the training dataset, the model will be trained. To assess its performance, it will use the testing dataset while it learns. Our model cannot predict how well it will perform on unseen data, so we will not use the entire dataset. Instead, we will use the portion we have set aside.
 
 We will assign the variable X to input variables, and use the to predict y, the output. The features (X) will be acousticnes, danceability, duration_ms, energy, instrumentalnes, liveness, loudness, mode, speechiness, tempo, valence and the target will be the column outcome, where 1- represents a popular song and 0-not popular.
 After determining the X, y, we will split the dataset into training and testing sets: X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1, stratify=y)
-As we train the model with the training data, we will create predictions for y-values, by using the testing X values (X_test).
-As we finish predicting the y values with the logistics regression model, we will determine the accuracy of the model, and then we will decide if any further model will be used to achieve a better accuracy.
+As we train the model with the training data, we will create predictions for y-values by using the testing X values (X_test).
+As we finish predicting the y values with the logistics regression model, we will determine the accuracy of the model, and then we will decide if any further models will be used to achieve better accuracy.
 
 * Advantages
   - Logistics regression is one of the simplest machine learning algorithms and performs great training effieciency is some cases.
@@ -59,10 +59,9 @@ As we finish predicting the y values with the logistics regression model, we wil
   - This model gives well-calibrated probabilities outputs along with the classification results.
 
 * Disadvantages
-  - As the logistics regression prdicts precise probabilistics outcomes based on the independent features, on high dimensional datasets, this will lead to over-fit on the training set. As a result, the accuracy of the prdictions on the traning set and thus on the model may nt be able to predicts accurate results on the test set.
-  - If the data is not linearly separable in higher dimension, it requires transformation of non linear features by increasing the number of features. This is required since non linear problems cannot be solved.
-  - Complex relationships are difficult to capture
-  - Complex relationships are difficult to capture
+  - As logistics regression predicts probabilistic outcomes based on independent features on large datasets, this will lead to overfitting. Thus, the model and the training data may not be able to predict the test results accurately.
+ - If the data is not linearly separable in higher dimensions, it requires the transformation of nonlinear features by increasing the number of features. This is required since non-linear problems cannot be solved.
+  - Complex relationships are difficult to capture.
 
 
 
