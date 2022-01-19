@@ -6,7 +6,7 @@
 
 ![spotify](https://user-images.githubusercontent.com/89357104/147999820-7eac0382-2b34-476b-818e-85ff8c85c78f.jpeg)
 
-The music business has gone through several technology driven shakeups over the past 30 years. The days of ranking songs based on how well
+The music business has gone through, several technology driven shakeups over the past 30 years. The days of ranking songs based on how well
 an album or single sold, or how often it was requested on your local radio station is long gone. Music production has vastly changed too, 
 with at home recording cheaper than ever, bringing studio level production to people's bedrooms, and social media acting as a primary source
 of marketing, artists don't need to sign up for a label to get their music out to listeners. 
@@ -31,11 +31,11 @@ to Spotify's Worldwide Daily Song Ranking stream count. We're expecting to find 
 
 ## Software Used
   * Database
-     * 
+     * PostgreSQL
   *
   * Machine Learning 
     * Logistics Regression
-    * Linear Regression
+    
   * Analyzing Data
     * Pandas 
     * Numpy 
@@ -43,6 +43,28 @@ to Spotify's Worldwide Daily Song Ranking stream count. We're expecting to find 
   * 
 
 ## Machine Learning Model
+
+For our project, we are going to use Logistics Regression as a supervised machine learning model. Logistics regression uses classification as a method. Using this model, we will be able to predict whether a song will be popular based on its features. Based on multiple factors, our model predicts whether a song will be popular or not, including acoustics, danceability, duration_ms, energy, instrumentals, liveness, loudness, mode, speech, tempo, and valence.
+
+Two sets of data will be created: a train dataset and a test dataset. Based on the training dataset, the model will be trained. To assess its performance, it will use the testing dataset while it learns. Our model cannot predict how well it will perform on unseen data, so we will not use the entire dataset. Instead, we will use the portion we have set aside.
+
+We will assign the variable X to input variables, and use the to predict y, the output. The features (X) will be acousticnes, danceability, duration_ms, energy, instrumentalnes, liveness, loudness, mode, speechiness, tempo, valence and the target will be the column outcome, where 1- represents a popular song and 0-not popular.
+After determining the X, y, we will split the dataset into training and testing sets: X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1, stratify=y)
+As we train the model with the training data, we will create predictions for y-values by using the testing X values (X_test).
+As we finish predicting the y values with the logistics regression model, we will determine the accuracy of the model, and then we will decide if any further models will be used to achieve better accuracy.
+
+* ## Advantages
+  - Logistics regression is one of the simplest machine learning algorithms and performs great training effieciency is some cases.
+  - The prdicted parameters give inference about the importance of each feature.
+  - This model gives well-calibrated probabilities outputs along with the classification results.
+
+* ## Disadvantages
+  - As logistics regression predicts probabilistic outcomes based on independent features on large datasets, this will lead to overfitting. Thus, the model and the training data may not be able to predict the test results accurately.
+  - If the data is not linearly separable in higher dimensions, it requires the transformation of nonlinear features by increasing the number of features. This is      required since non-linear problems cannot be solved.
+  - Complex relationships are difficult to capture.
+
+
+
 
 ## Presentation 
 
