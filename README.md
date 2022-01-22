@@ -44,7 +44,12 @@ to Spotify's Worldwide Daily Song Ranking stream count. We're expecting to find 
 
 ## Machine Learning Model
 
-For our project, we are going to use Logistics Regression as a supervised machine learning model. Logistics regression uses classification as a method. Using this model, we will be able to predict whether a song will be popular based on its features. Based on multiple factors, our model predicts whether a song will be popular or not, including acoustics, danceability, duration_ms, energy, instrumentals, liveness, loudness, mode, speech, tempo, and valence.
+For our project, we are going to use Random Forest model. Random Forest model is a supervised machine learning algorithm that is constructed from decision tree algorithms. It utilizes ensemble learning, which is a technique that combines many classifiers to provide solutions to complex problems. Using this model, we will be able to predict whether a song will be popular based on its features. Based on multiple factors, our model predicts whether a song will be popular or not (if the streams will be above average of 345,717 streams or below), including acoustics, danceability, duration_ms, energy, instrumentals, liveness, loudness, mode, speech, tempo, and valence.
+
+*Data Preprocessing*
+
+The streams value helped us to binary group the data in to two groups where 1 is the group where the streams values are above the average number of 345,717 streams and the 0 group the number below the average. These groups will be our target where we will train and test the model based on the song's features:acoustics, danceability, duration_ms, energy, instrumentals, liveness, loudness,key, mode, speech, tempo, and valence.
+However, our data set contains categorical values for the column key and mode. Therefore, we used Scikit-learn's LabelEncoder to transorf text into numerical data.
 
 Two sets of data will be created: a train dataset and a test dataset. Based on the training dataset, the model will be trained. To assess its performance, it will use the testing dataset while it learns. Our model cannot predict how well it will perform on unseen data, so we will not use the entire dataset. Instead, we will use the portion we have set aside.
 
@@ -54,14 +59,16 @@ As we train the model with the training data, we will create predictions for y-v
 As we finish predicting the y values with the logistics regression model, we will determine the accuracy of the model, and then we will decide if any further models will be used to achieve better accuracy.
 
 * ## Advantages
-  - Logistics regression is one of the simplest machine learning algorithms and performs great training effieciency is some cases.
-  - The prdicted parameters give inference about the importance of each feature.
-  - This model gives well-calibrated probabilities outputs along with the classification results.
+  - It can perform both regression and classification tasks.
+  - A random forest produces good predictions that can be understood easily.
+  - It can handle large datasets efficiently.
+  - The random forest algorithm provides a higher level of accuracy in predicting outcomes over the decision tree algorithm.
 
 * ## Disadvantages
-  - As logistics regression predicts probabilistic outcomes based on independent features on large datasets, this will lead to overfitting. Thus, the model and the training data may not be able to predict the test results accurately.
-  - If the data is not linearly separable in higher dimensions, it requires the transformation of nonlinear features by increasing the number of features. This is      required since non-linear problems cannot be solved.
-  - Complex relationships are difficult to capture.
+  - When using a random forest, more resources are required for computation.
+  - It consumes more time compared to a decision tree algorithm.
+  - When used for regression they cannot predict beyond the range in the traning data, and they may over-fit data sets that are particularly noisy.
+  
 
 
 
