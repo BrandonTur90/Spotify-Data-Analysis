@@ -60,6 +60,8 @@ After determining the X, y, we will split the dataset into training and testing 
 As we train the model with the training data, we will create predictions for y-values by using the testing X values (X_test).
 As we finish predicting the y values with the random forest model, we will determine the accuracy of the model, and then we will decide if any further models will be used to achieve better accuracy.
 
+![Random Forest](https://github.com/BrandonTur90/Spotify-Data-Analysis/blob/main/images/Random%20forest%20clasifier.PNG)
+
 * ## Advantages of Random Forest model
   - It can perform both regression and classification tasks.
   - A random forest produces good predictions that can be understood easily.
@@ -72,9 +74,15 @@ As we finish predicting the y values with the random forest model, we will deter
   - When used for regression they cannot predict beyond the range in the traning data, and they may over-fit data sets that are particularly noisy.
 
 *Explanation of changes in model choice*
+
+When we first started the project, our goal was to predict if a song was likely to win a grammy based on the song's features. However, due to lack of data we changed our target and we will predict if a song will be popular and will have high number of streams based on the features of the song.
+Another challenge was on the machine learning model. We first used logistics regression model. Even though the testing accuracy score was 75% the classifier report and the confusion matrix gave us non-diserable result. Therefore, as our target was binary data set, we applied the supersived machine learning Random Forest model.
+
+* Accuracy score is a way to validate the model's performance. On our model, we had a accuracy score of 83% which is a acceptable percantage. However, as our target is a binary dataset, we applied the confusion matrix parameter to determine precision of the model, which is a measure of positive predicted value (PPV) where we will se how reliable a positive classification it is.
+
+* Additional tranining that will take on the future is to see if any Overfitting or Underfitting happened to the model.
+Also, it will be a good idea to check if the model will be more successfull if we use different Random Forest Hyperparameters.
   
-
-
 
 
 ## Presentation 
