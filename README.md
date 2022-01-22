@@ -53,21 +53,25 @@ However, our data set contains categorical values for the column key and mode. T
 
 Two sets of data will be created: a train dataset and a test dataset. Based on the training dataset, the model will be trained. To assess its performance, it will use the testing dataset while it learns. Our model cannot predict how well it will perform on unseen data, so we will not use the entire dataset. Instead, we will use the portion we have set aside.
 
+*Description of how data was split into training and testing sets*
+
 We will assign the variable X to input variables, and use the to predict y, the output. The features (X) will be acousticnes, danceability, duration_ms, energy, instrumentalnes, liveness, loudness, mode, speechiness, tempo, valence and the target will be the column outcome, where 1- represents a popular song and 0-not popular.
 After determining the X, y, we will split the dataset into training and testing sets: X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1, stratify=y)
 As we train the model with the training data, we will create predictions for y-values by using the testing X values (X_test).
-As we finish predicting the y values with the logistics regression model, we will determine the accuracy of the model, and then we will decide if any further models will be used to achieve better accuracy.
+As we finish predicting the y values with the random forest model, we will determine the accuracy of the model, and then we will decide if any further models will be used to achieve better accuracy.
 
-* ## Advantages
+* ## Advantages of Random Forest model
   - It can perform both regression and classification tasks.
   - A random forest produces good predictions that can be understood easily.
   - It can handle large datasets efficiently.
   - The random forest algorithm provides a higher level of accuracy in predicting outcomes over the decision tree algorithm.
 
-* ## Disadvantages
+* ## Disadvantages of Random Forest model
   - When using a random forest, more resources are required for computation.
   - It consumes more time compared to a decision tree algorithm.
   - When used for regression they cannot predict beyond the range in the traning data, and they may over-fit data sets that are particularly noisy.
+
+*Explanation of changes in model choice*
   
 
 
