@@ -88,6 +88,7 @@ Also, it will be a good idea to check if the model will be more successfull if w
 ## Presentation 
 
 * Presentation Document: [Google Slide Presentation](https://docs.google.com/presentation/d/1kofNapJf18HnhgTNp6hX8VxUg7Z1qYCCVxNfF793xiA/edit#slide=id.g723630543_3_0)
+* [Tabeau Dashboard](https://public.tableau.com/app/profile/brandon.turner7839/viz/Spotify_16426402434380/SpotifyStreamingAnalysis?publish=yes)
 
 ## Work as a Team
 
