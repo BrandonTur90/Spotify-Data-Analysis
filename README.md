@@ -60,7 +60,7 @@ After determining the X, y, we will split the dataset into training and testing 
 As we train the model with the training data, we will create predictions for y-values by using the testing X values (X_test).
 As we finish predicting the y values with the random forest model, we will determine the accuracy of the model, and then we will decide if any further models will be used to achieve better accuracy.
 
-![Random Forest](https://github.com/BrandonTur90/Spotify-Data-Analysis/blob/main/images/Random%20forest%20clasifier.PNG)
+![Random Forest](https://github.com/BrandonTur90/Spotify-Data-Analysis/blob/main/Resources/Random%20forest%20clasifier.png?raw=true)
 
 * ## Advantages of Random Forest model
   - It can perform both regression and classification tasks.
@@ -92,7 +92,7 @@ Also, it will be a good idea to check if the model will be more successfull if w
 ## Work as a Team
 
 Eventhough our goal as a team is to collaborate and help each other on the different tasks, we separated our role as:
-* Square: [Brandon Turner](https://github.com/BrandonTur90) will be responsible for the respiratory
+* Square: [Brandon Turner](https://github.com/BrandonTur90) will be responsible for the repository.
 * Triangle: [Oluwatobiloba Oduntan](https://github.com/Tobi1018) will create a mockup of a machine learning model.
 * Circle: [Roxhensa Kardhiqi](https://github.com/roxhensa02) will create a mockup of a database with a set of sample data, or even fabricated data
 * X: [Shantal Jambotkar](https://github.com/shantaljambotkar) will decide which technologies will be used for each step of the project and she is working on the Jupiter Notebook and cleaning the data.
