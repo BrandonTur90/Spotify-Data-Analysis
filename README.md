@@ -31,16 +31,18 @@ to Spotify's Worldwide Daily Song Ranking stream count. We're expecting to find 
 
 ## Software Used
   * Database
-     * PostgreSQL
-  *
+    * PostgreSQL
+  
   * Machine Learning 
     * Random Forest
     
   * Analyzing Data
     * Pandas 
     * Numpy 
-  * 
-  * 
+    
+  * Dashboard
+    * Tableau
+  
 
 ## Machine Learning Model
 
